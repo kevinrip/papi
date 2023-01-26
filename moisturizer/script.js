@@ -1,21 +1,3 @@
-
-
-
-
-const fetchUserData = (userId) => {
-    let url = `https://reqres.in/api/users/${userId}`;
-
-    return fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            return data;
-        })
-        .catch(error => {
-            console.error(`Error fetching data: ${error}`);
-        });
-}
-
-
 const changeUI = (experience) => {
     let header = document.querySelector('#personalizationHeader');
     let subtitle = document.querySelector('#personalizationSubtitle');
@@ -44,6 +26,24 @@ const changeUI = (experience) => {
             console.log("Invalid option selected");
     }
 }
+
+
+
+const fetchUserData = (userId) => {
+    let url = `https://reqres.in/api/users/${userId}`;
+
+    return fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            return data;
+        })
+        .catch(error => {
+            console.error(`Error fetching data: ${error}`);
+        });
+}
+
+
+
 
 
 const displayResponse = () => {
@@ -107,7 +107,7 @@ const displayBanner = () => {
     banner.style.width = "100%";
     banner.style.backgroundColor = "#f0f0f0";
     banner.style.padding = "10px";
-    banner.style.zIndex = "100";
+    banner.style.zIndex = "99999999";
 
     // Create text field element
     let bannerText = document.createElement("input");
