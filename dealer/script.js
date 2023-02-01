@@ -17,16 +17,13 @@ const changeUI = (data) => {
 
             if (subtitle) {
                 subtitle.value = "Subaru";
-
-            }
-            if (button) {
-                button.innerHTML = "Unlock Free Shipping";
+                subtitle.style.color = "orange";
             }
             console.log("Option 1 selected");
             break;
-        case false:
-            break;
         default:
+            subtitle.value = "All Makes";
+            subtitle.style.color = "black";
             console.log("Invalid option selected");
     }
 }
