@@ -1,4 +1,6 @@
-const changeUI = (experience) => {
+const changeUI = (data) => {
+    let experience = data.owns_subaru_outback;
+
     let headerSelector = '#personalizationHeader';
     let subtitleSelector = '#personalizationSubtitle';
     let buttonSelector = '#personalizationButton';
@@ -9,12 +11,12 @@ const changeUI = (experience) => {
 
 
     switch (experience) {
-        case "George":
+        case true:
             if (header) {
-                header.innerHTML = "Unlock your <br> potential";
+                header.innerHTML += ` in ${data.city}`;
             }
             if (subtitle) {
-                subtitle.innerHTML = "Energy should be easy. Free shipping on your next order!";
+                subtitle.value = "Subaru";
 
             }
             if (button) {
@@ -22,32 +24,7 @@ const changeUI = (experience) => {
             }
             console.log("Option 1 selected");
             break;
-        case "Janet":
-            if (header) {
-                header.innerHTML = "We've missed you!";
-            }
-            if (subtitle) {
-                subtitle.innerHTML = "We hope you enjoyed your first purchase. Here's 30% off your next order.";
-
-            }
-            if (button) {
-                button.innerHTML = "Enjoy 30% off";
-            }
-            console.log("Option 2 selected");
-            break;
-        case "Emma":
-
-            if (header) {
-                header.innerHTML = "Flash Sale: <br> Body Wash";
-            }
-            if (subtitle) {
-                subtitle.innerHTML = "We're offering a BOGO deal on our body wash products!";
-
-            }
-            if (button) {
-                button.innerHTML = "Browse Body Wash";
-            }
-            console.log("Option 3 selected");
+        case false:
             break;
         default:
             console.log("Invalid option selected");
@@ -57,9 +34,29 @@ const changeUI = (experience) => {
 
 
 const fetchUserData = (userId) => {
-    let url = `https://reqres.in/api/users/${userId}`;
+    // let url = `https://personalization.us-west-2.hightouch.com/v1/collections/mycustomers/records/id/${userId}`;
 
-    return fetch(url)
+
+
+    // return fetch(url, {
+    //     method: "GET",
+    //     headers: { "Authorization": "Bearer 6f8a775e-a7b3-42dc-8f4d-aeb9306050e0" },
+    // })
+    //     .then(response => response.json())
+    //     .then(data => {
+    //         return data;
+    //     })
+    //     .catch(error => {
+    //         console.error(`Error fetching data: ${error}`);
+    //     });
+
+    let url = `http://127.0.0.1:5000/get_records/${userId}`;
+
+
+
+    return fetch(url, {
+        method: "GET"
+    })
         .then(response => response.json())
         .then(data => {
             return data;
@@ -67,8 +64,6 @@ const fetchUserData = (userId) => {
         .catch(error => {
             console.error(`Error fetching data: ${error}`);
         });
-
-
 
 }
 
@@ -156,7 +151,7 @@ const displayBanner = () => {
         fetchUserData(bannerText.value)
             .then(data => {
                 console.log(data);
-                changeUI(data.data.first_name)
+                changeUI(data)
                 document.querySelector('#response').innerHTML = JSON.stringify(data, null, 2);
             });
     });
