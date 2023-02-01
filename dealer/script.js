@@ -13,7 +13,7 @@ const changeUI = (data) => {
     switch (experience) {
         case true:
             if (header) {
-                header.innerHTML += ` in ${data.city}`;
+                header.innerHTML = `Find your perfect car in ${data.city}`;
             }
             if (subtitle) {
                 subtitle.value = "Subaru";
@@ -77,7 +77,7 @@ const displayResponse = () => {
     let floatingDiv = document.createElement("div");
     floatingDiv.style.position = "fixed";
     floatingDiv.style.top = "50%";
-    floatingDiv.style.left = "50%";
+    floatingDiv.style.left = "90%";
     floatingDiv.style.transform = "translate(-50%, -50%)";
     floatingDiv.style.backgroundColor = "white";
     floatingDiv.style.padding = "10px";
