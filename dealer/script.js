@@ -8,13 +8,13 @@ const changeUI = (data) => {
     let header = document.querySelector(headerSelector);
     let subtitle = document.querySelector(subtitleSelector);
     let button = document.querySelector(buttonSelector);
-
+    if (header) {
+        header.innerHTML = `Find your perfect car in ${data.city}`;
+    }
 
     switch (experience) {
         case true:
-            if (header) {
-                header.innerHTML = `Find your perfect car in ${data.city}`;
-            }
+
             if (subtitle) {
                 subtitle.value = "Subaru";
 
