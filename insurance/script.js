@@ -77,6 +77,7 @@ const displayResponse = () => {
     floatingDiv.id = "response";
     floatingDiv.style.fontFamily = "monospace";
     floatingDiv.style.fontSize = "14px";
+    floatingDiv.style.zIndex = "99999";
 
     // Add text content to div
     floatingDiv.innerHTML = "API Response";
