@@ -31,28 +31,13 @@ const changeUI = (data) => {
 
 
 const fetchUserData = (userId) => {
-    // let url = `https://personalization.us-west-2.hightouch.com/v1/collections/mycustomers/records/id/${userId}`;
-
-
-
-    // return fetch(url, {
-    //     method: "GET",
-    //     headers: { "Authorization": "Bearer 6f8a775e-a7b3-42dc-8f4d-aeb9306050e0" },
-    // })
-    //     .then(response => response.json())
-    //     .then(data => {
-    //         return data;
-    //     })
-    //     .catch(error => {
-    //         console.error(`Error fetching data: ${error}`);
-    //     });
-
-    let url = `http://127.0.0.1:5000/get_records/${userId}`;
+    let url = `https://proxy.cors.sh/https://personalization.us-west-2.hightouch.com/v1/collections/mycustomers/records/id/${userId}`;
 
 
 
     return fetch(url, {
-        method: "GET"
+        method: "GET",
+        headers: { "Authorization": "Bearer 6f8a775e-a7b3-42dc-8f4d-aeb9306050e0", 'x-cors-api-key': 'temp_14effb80b28eaad674777abbf7f37182' },
     })
         .then(response => response.json())
         .then(data => {
@@ -61,6 +46,21 @@ const fetchUserData = (userId) => {
         .catch(error => {
             console.error(`Error fetching data: ${error}`);
         });
+
+    // let url = `http://127.0.0.1:5000/get_records/${userId}`;
+
+
+
+    // return fetch(url, {
+    //     method: "GET"
+    // })
+    //     .then(response => response.json())
+    //     .then(data => {
+    //         return data;
+    //     })
+    //     .catch(error => {
+    //         console.error(`Error fetching data: ${error}`);
+    //     });
 
 }
 
@@ -149,7 +149,7 @@ const displayBanner = () => {
             .then(data => {
                 console.log(data);
                 changeUI(data)
-                document.querySelector('#response').innerHTML = JSON.stringify(data, null, 2);
+                document.querySelector('#response').innerHTML = JSON.stringify(data, null, "\t");
             });
     });
 
