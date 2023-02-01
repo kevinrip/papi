@@ -2,6 +2,7 @@ import requests
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 
+
 app = Flask(__name__)
 CORS(app)
 
@@ -17,8 +18,10 @@ def get_records(record_id):
     data = {
         "id": record_id
     }
-    response = requests.post(
-        "https://personalization.us-west-2.hightouch.com/v1/collections/mycustomers/records", headers=header, json=data)
+    payload = {}
+    response = requests.request(
+        "GET", "https://personalization.us-west-2.hightouch.com/v1/collections/mycustomers/records/id/"+str(record_id), headers=header, data=payload)
+
     return jsonify(response.json())
 
 
