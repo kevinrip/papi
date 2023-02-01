@@ -9,7 +9,7 @@ const changeUI = (data) => {
     let subtitle = document.querySelector(subtitleSelector);
     let button = document.querySelector(buttonSelector);
 
-    subtitle.innerHTML = `On Your Car Insurance In ${data.city}`;
+    subtitle.innerHTML = ` On Your Car Insurance In ${data.city}`;
 
 
     switch (experience) {
