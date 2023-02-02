@@ -9,12 +9,12 @@ const changeUI = (data) => {
     let subtitle = document.querySelector(subtitleSelector);
     let button = document.querySelector(buttonSelector);
 
-    subtitle.innerHTML = ` On Your Car Insurance In ${data.city}`;
+    subtitle.innerHTML = ` On Your Car Insurance In <span style="color: rgb(236, 102, 8);">${data.city}</span>`;
 
 
     switch (experience) {
         case true:
-            header.innerHTML = `Get a Free Quote on your Subaru`;
+            header.innerHTML = `Get a Free Quote on your <span style="color: rgb(236, 102, 8);">Subaru</span>`;
             break;
         default:
             header.innerHTML = `Get a Free Quote Now`;
