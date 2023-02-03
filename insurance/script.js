@@ -143,8 +143,11 @@ const displayBanner = () => {
         fetchUserData(bannerText.value)
             .then(data => {
                 console.log(data);
-                changeUI(data)
-                document.querySelector('#response').innerHTML = JSON.stringify(data, null, "\t");
+                changeUI(data);
+                // document.querySelector('#response').innerHTML = JSON.stringify(data, null, "\t");
+
+                document.querySelector('#response').innerHTML = formatJSON(data);
+
             });
     });
 
@@ -162,6 +165,34 @@ const displayBanner = () => {
     // Append banner to body
     document.body.appendChild(banner);
 }
+
+const formatJSON = (obj) => {
+    let html = "<pre style='color: green;'>{<br>";
+    for (const key in obj) {
+        if (obj.hasOwnProperty(key)) {
+            const value = obj[key];
+            html += "&nbsp;&nbsp;<span style='color: blue;'>" + key + "</span>: ";
+            if (typeof value === "string") {
+                html += "<span style='color: red;'>" + value + "</span>,<br>";
+            } else if (typeof value === "boolean") {
+                html += "<span style='color: red;'>" + value.toString() + "</span>,<br>";
+            } else if (typeof value === "number") {
+                html += "<span style='color: red;'>" + value + "</span>,<br>";
+            } else if (Array.isArray(value)) {
+                html += "<span style='color: red;'>[<br>";
+                for (const item of value) {
+                    html += formatJSON(item) + ",<br>";
+                }
+                html += "&nbsp;&nbsp;]</span>,<br>";
+            } else if (typeof value === "object") {
+                html += formatJSON(value) + ",<br>";
+            }
+        }
+    }
+    html += "}</pre>";
+    return html;
+}
+
 
 displayBanner();
 displayResponse();
