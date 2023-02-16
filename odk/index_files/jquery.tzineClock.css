@@ -1,0 +1,38 @@
+.clock{
+	/* The .clock div. Created dynamically by jQuery */
+	height:100px;
+	width:100px;
+	position:absolute;
+}
+
+.clock .rotate{
+	/* There are two .rotate divs - one for each half of the background */
+	position:absolute;
+	width:100px;
+	height:100px;
+	top:0;
+	left:0;
+}
+
+.rotate.left{
+	z-index:11;
+}
+
+.clock .bg{
+	/*src='img/bg_green.png';*/
+}
+
+.clock .display{
+	/* Holds the number of seconds, minutes or hours respectfully */
+	position:absolute;
+	width:100px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	z-index:20;
+	color:#F5F5F5;
+	font-size:30px;
+	text-align:center;
+	padding-top:30px;
+	
+	/* CSS3 text shadow: */
+	text-shadow:4px 4px 5px #333333;
+} 
