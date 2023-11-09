@@ -1,5 +1,5 @@
 const changeUI = (data) => {
-    let experience = data.owns_subaru_outback;
+    let experience = data.PIZZALOVER;
 
     let headerSelector = '#papioffer';
     let priceSelector = '#papiprice';
@@ -23,7 +23,7 @@ const changeUI = (data) => {
 
 
 const fetchUserData = (userId) => {
-    let url = `https://proxy.cors.sh/https://personalization.us-west-2.hightouch.com/v1/collections/mycustomers/records/id/${userId}`;
+    let url = `https://proxy.cors.sh/https://personalization.us-west-2.hightouch.com/v1/collections/pizza/records/id/${userId}`;
 
 
 
