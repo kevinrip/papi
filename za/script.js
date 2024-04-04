@@ -29,7 +29,7 @@ const fetchUserData = (userId) => {
 
     return fetch(url, {
         method: "GET",
-        headers: { "Authorization": "Bearer 6f8a775e-a7b3-42dc-8f4d-aeb9306050e0", 'x-cors-api-key': 'temp_14effb80b28eaad674777abbf7f37182' },
+        headers: { "Authorization": "Bearer 6f8a775e-a7b3-42dc-8f4d-aeb9306050e0", 'x-cors-api-key': 'temp_632a1cd7381db4e0c5560e58260930be' },
     })
         .then(response => response.json())
         .then(data => {
