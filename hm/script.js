@@ -45,7 +45,7 @@ const changeUI = (data) => {
 
 
 const fetchUserData = (userId) => {
-    let url = `https://proxy.cors.sh/https://personalization.us-west-2.hightouch.com/v1/collections/mycustomers/records/id/${userId}`;
+    let url = `https://proxy.cors.sh/https://personalization.us-east-1.hightouch.com/v1/collections/mycustomers/records/id/${userId}`;
 
 
 
