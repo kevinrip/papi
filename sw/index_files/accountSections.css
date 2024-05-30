@@ -1,0 +1,70 @@
+.accountSectionWrapper{background:#f2f7fd url(/assets/images/loyalty/account_blue_gradient.gif) repeat-x bottom left;border:1px;clear:both;float:left;padding-right:10px;padding-left:10px;padding-top:10px;width:760px!important}
+.accountSectionWrapperNoIeHacks{background:#f2f7fd url(/assets/images/loyalty/account_blue_gradient.gif) repeat-x bottom left;clear:both;float:left;padding-right:10px;padding-left:10px;width:760px!important;border:1px}
+#accountSections{padding:0;margin:10px 0 0 0;clear:both;float:left;width:770px;font-family:Helvetica,Arial,Sans-serif;border-bottom:1px solid #dfe9f6}
+#accountSections li{float:left;list-style-type:none;font-size:14px;font-weight:normal;padding:12px 15px 12px 15px;margin:0;color:#2683f9;text-align:left}
+#accountSections li.longField{width:110px}
+#accountSections li.selected{border-left:none;border-bottom:1px solid #f2f7fd;background:#f2f7fd url(/assets/images/loyalty/account_sections_selected_bg.gif) no-repeat top left;color:black;width:197px;padding:12px 0;margin:0;text-align:center;font-weight:bold;position:relative;top:1px}
+#accountSections .search,#accountSections .quickLinks{float:right;text-align:right;width:170px!important}
+#accountSections .quickLinks{position:relative}
+.ua_js_no #accountSections .quickLinks SELECT{position:absolute;right:60px;width:125px;^right:47px;^width:170px}
+.ua_js_yes #accountSections .quickLinks SELECT{position:absolute;right:25px;top:0;width:160px;^width:170px}
+#accountSections .quickLinks FORM{display:inline}
+.accountSectionContent{background-color:#f2f7fd;float:left;clear:both;width:740px;padding:15px}
+.accountSectionContent_inner{border:1px solid #dfe9f6;padding:20px 30px;background-color:white;margin:10px 0;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px}
+.accountSubSectionHeader{padding-left:20px}
+#promotionDetail #certificatePromotions .accountSectionContentCenter{padding-left:20px;padding-right:21px;padding-top:0;width:710px}
+#promotionDetail .accountSectionContentTop{height:10px}
+#promotionDetail .accountSectionContentCenter{padding-left:0;padding-right:21px;width:730px}
+.awardContainer h3{display:inline-block}
+.accountSectionContentTop{background:transparent url(/assets/images/loyalty/accountWrapperTop.gif) no-repeat top left;height:20px;width:751px;margin-top:10px;clear:both}
+.accountSectionContentCenter{background:transparent url(/assets/images/loyalty/accountWrapperCenter.gif) repeat-y top left;width:751px;padding:0;float:left}
+.reissueawardPayment{background:transparent url(/assets/images/loyalty/accountWrapperCenter.gif) repeat-y top left;width:730px;padding:0 10px;float:left}
+.accountSectionContentBottom{background:transparent url(/assets/images/loyalty/tierStatus/tierStatusChartBottom.gif) no-repeat bottom left;height:20px;width:751px;float:left;margin-bottom:13px}
+#promotionsSnapshot .accountSectionContentTop{background:url(/assets/images/loyalty/accountWrapperTopSmall.gif) no-repeat top left;width:460px;height:20px;margin:5px 0 0 0}
+#promotionsSnapshot .accountSectionContentCenter{background:url(/assets/images/loyalty/accountWrapperCenterSmall.gif) repeat-y top left;width:430px;padding-left:15px;padding-right:15px}
+#promotionsSnapshot .accountSectionContentBottom{background:url(/assets/images/loyalty/accountWrapperBottomSmall.gif) no-repeat bottom left;width:460px;height:20px}
+#promotionsSnapshot .ContentBottomCompanionPass{height:5px}
+#promotionsSnapshot .promotionSection{margin-bottom:20px;clear:both;float:left;width:425px}
+.accountSectionContentCenter .promotionSection h2{font-size:11px!important}
+.accountSectionContentCenter .subSection{padding:0 0 15px 0}
+.eligiblePromotions{padding-bottom:10px;float:left}
+.eligiblePromotions .eligiblePromotion{clear:both;margin:10px 0 0 0;padding:0 0 10px 0;float:left;border-bottom:1px dotted #abaaaa;width:710px}
+.eligiblePromotions .eligiblePromotion IMG.eligiblePromotionImage{float:left;width:90px;margin-right:10px}
+.eligiblePromotions .eligiblePromotion .eligiblePromotionDetail{float:left;width:600px}
+.eligiblePromotions .eligiblePromotion .eligiblePromotionDescription{margin:10px 0 0 0;float:left;width:490px}
+.eligiblePromotions .eligiblePromotion .optIn{float:right;width:101px}
+.activeMemberPromotion,.awardedPromotions{padding:10px 0}
+.secondarySection{margin-top:10px;float:left;width:710px}
+#myRRSnapshot .columnOne,#myRRSnapshot .columnTwo,#promotionsSnapshot .columnOne,#promotionsSnapshot .columnTwo{float:left}
+#myRRSnapshot .columnOne{width:190px;min-height:200px}
+#myRRSnapshot .columnTwo{width:560px}
+#promotionsSnapshot .columnOne{width:265px;margin-top:10px}
+#promotionsSnapshot .columnTwo{width:455px;padding:0 10px}
+.leftSideBox{margin:10px 0}
+.leftSideBox H6{padding-left:10px}
+.leftSideBox .leftSideBoxTop,.leftSideBox .leftSideBoxCenter,.leftSideBox .leftSideBoxBottom{margin:0}
+.leftSideBox .leftSideBoxTop{background:url(/assets/images/loyalty/accountWrapperLeftTop.gif) no-repeat top left;width:260px;height:11px;padding:0}
+.leftSideBox .leftSideBoxCenter{background:url(/assets/images/loyalty/accountWrapperLeftCenter.gif) repeat-y top left;width:240px;padding:0 10px}
+.leftSideBox .leftSideBoxCenter_NoBackground{width:240px;*width:260px;padding:0 10px}
+.leftSideBox .leftSideBoxBottom{background:url(/assets/images/loyalty/accountWrapperLeftBottom.gif) no-repeat bottom left;width:260px;height:11px;margin-bottom:10px}
+#promotionsSnapshot .viewDetailsLink{text-align:right;margin-right:10px;padding-bottom:12px}
+ul.pipe li{margin-left:0;padding:0 5px;border-right:1px solid #ddd;list-style:none;display:inline}
+ul.pipe li.last{border-right:0}
+.no_past_trips{line-height:50px}
+.resissuePricing{padding-left:10px}
+.thankyou{padding-left:10px}
+.paymentMethod{padding-left:10px}
+#eligible_promotions .promotions_header,#awarded_promotions .promotions_header,#active_promotions .promotions_header{color:#505050;font-size:11px;font-weight:bold;line-height:12px;text-transform:uppercase;font-family:helvetica,arial,sans-serif;float:left}
+#eligible_promotions .promotions_header_container,#awarded_promotions .promotions_header_container,#active_promotions .promotions_header_container{clear:both;float:left;border-bottom:1px solid #ccc;padding-bottom:7px;padding-left:10px;width:740px}
+#eligible_promotions .promotion_wrapper,#awarded_promotions .promotion_wrapper,#active_promotions .promotion_wrapper{padding-top:15px}
+#awarded_promotions .certificateDescription,#eligible_promotions .certificateDescription,#active_promotions .certificateDescription{padding-left:20px}
+#awarded_promotions .productBookNow,#eligible_promotions .productBookNow,#active_promotions .productBookNow,#active_promotions .promotionRegistered,#eligible_promotions .promotionRegistered{padding-right:20px}
+#eligible_promotions .no_promotions,#awarded_promotions .no_promotions,#active_promotions .no_promotions{padding-left:20px;padding-top:10px}
+#active_promotions,#awarded_promotions,#eligible_promotions{padding-bottom:20px}
+#active_promotions h3,#active_promotions .productDescription,#eligible_promotions h3,#eligible_promotions .productDescription{padding-left:20px}
+.swa_buttons_preText{font-family:Helvetica,Arial,sans-serif;font-weight:bold;font-size:18px;color:#000;display:block;letter-spacing:-1px;line-height:20px;margin-bottom:0}
+.noActivePromotions{margin-left:10px}
+#rr_year_and_siebel{background-image:url("/assets/images/global_account_bar/myaccount-message-bg.png");background-repeat:no-repeat;clear:both;height:49px;margin:0 7px 1px;width:573px}
+#rr_year_and_siebel_inner{padding:10px 0 0 70px}
+#rr_year_and_siebel #rr_year_and_siebel_inner .rr_year_and_siebel_link{float:right;margin:12px 29px 0 0}
+#rr_year_and_siebel #rr_year_and_siebel_inner p{width:400px;float:left}

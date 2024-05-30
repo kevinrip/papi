@@ -1,0 +1,15 @@
+.ac_results{padding:0;border:1px solid #999;background-color:white;overflow:hidden;z-index:99999;text-align:left;width:208px}
+.new-home .ac_results,.new-home .ac_results ul{width:247px}
+.ac_results ul{float:left;list-style:none outside;padding:0;margin:0;overflow:hidden;width:208px}
+.hotel_results ul{overflow-y:auto}
+.ac_results li{margin:0;padding:0 2px;cursor:pointer;display:block;font-family:Tacoma,Arial,Sans-Serif;font-size:11px;line-height:14px;overflow:hidden;white-space:normal;^width:auto!important}
+.ac_results li.normal{padding-left:15px;text-indent:-7px}
+.hotel_results li.normal{box-sizing:border-box;moz-box-sizing:border-box;padding-right:5px}
+.hotel_results ul li.ac_child{font-size:11px;text-indent:0;padding-left:15px}
+.ac_results li.unselectable{height:14px;^height:15px;position:relative}
+.ac_results .region{background-color:#FFF;color:#636363;display:inline;font-size:10px;padding-right:3px;position:relative;top:-12px;^top:-13px}
+.ac_results li.bottom{height:2px;margin-top:2px;margin-left:2px;^height:4px;^margin-top:-4px;^margin-bottom:-4px;^margin-right:11px}
+.ac_results .regionDots{border-top:1px dotted #999;margin:7px 7px 4px;^margin-top:9px;^margin-right:9px}
+.ac_results .endRegionDots{border-top:1px dotted #999;margin-right:7px;^margin-right:10px}
+.ac_over{background-color:#f0f0f0}
+.watermark{color:#aaa!important}

@@ -1,0 +1,199 @@
+#sw_content{padding-left:0;width:760px}
+UL.rr_marketing_nav{clear:both;list-style-type:none;margin:0;padding:0;overflow:hidden}
+UL.rr_marketing_nav LI{padding:0;margin:0;float:left;clear:right}
+UL.rr_marketing_nav LI a,UL.rr_marketing_nav LI a:link,UL.rr_marketing_nav LI a:visited,UL.rr_marketing_nav LI a:active{height:60px;display:block;text-decoration:none;cursor:pointer}
+UL.rr_marketing_nav LI a{cursor:default}
+UL.rr_marketing_nav LI#overview a{width:149px;background:url('/assets/images/rapid-rewards/rr_tabs.png') 0 0}
+UL.rr_marketing_nav LI#about a{width:74px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -149px -60px}
+UL.rr_marketing_nav LI#how-to-earn a{width:111px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -224px -120px}
+UL.rr_marketing_nav LI#how-to-redeem a{width:130px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -336px -180px}
+UL.rr_marketing_nav LI#tiers-more-alist a{width:112px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -466px -240px}
+UL.rr_marketing_nav LI#partners a{width:87px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -578px -300px}
+UL.rr_marketing_nav LI#promotions a{width:97px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -663px -360px}
+UL.rr_marketing_nav LI#overview a:link,UL.rr_marketing_nav LI#overview a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') 0 -120px}
+UL.rr_marketing_nav LI#about a:link,UL.rr_marketing_nav LI#about a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -149px 0}
+UL.rr_marketing_nav LI#how-to-earn a:link,UL.rr_marketing_nav LI#how-to-earn a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -224px 62px}
+UL.rr_marketing_nav LI#how-to-redeem a:link,UL.rr_marketing_nav LI#how-to-redeem a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -336px 62px}
+UL.rr_marketing_nav LI#tiers-more-alist a:link,UL.rr_marketing_nav LI#tiers-more-alist a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -466px 62px}
+UL.rr_marketing_nav LI#partners a:link,UL.rr_marketing_nav LI#partners a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -578px 242px}
+UL.rr_marketing_nav LI#promotions a:link,UL.rr_marketing_nav LI#promotions a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -663px 0}
+TD.selectedTab a:link,TD.selectedTab a:visited{color:black}
+.rr_content{background:transparent url(/assets/images/mkt/loyalty/rapid_rewards/rr_partner_about_bg_blue.jpg) no-repeat scroll top left;clear:both}
+#rr_title_box{width:719px;background:transparent url(/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_bottom.png) no-repeat scroll bottom left;padding-bottom:55px;position:relative;margin-top:15px}
+.wcm_page_header{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top.png") no-repeat scroll left top transparent;font-size:24px;line-height:26px;color:#203080;font-weight:bold;letter-spacing:0;padding-left:50px;overflow:hidden;padding-top:20px}
+.wcm_page_header H1{border:0;margin:0;padding:0;font-size:24px;line-height:26px;color:#203080;font-weight:bold;letter-spacing:0}
+#wcm_page_header_about_rr{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_about_rr.png") no-repeat scroll left top transparent}
+#wcm_page_header_how_to_earn{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_how_to_earn.png") no-repeat scroll left top transparent}
+#wcm_page_header_how_to_redeem{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_how_to_redeem.png") no-repeat scroll left top transparent}
+#wcm_page_header_tiers{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_tiers.png") no-repeat scroll left top transparent}
+#wcm_page_header_partners{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_partners.png") no-repeat scroll left top transparent}
+#wcm_page_header_promotions{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_promotions.png") no-repeat scroll left top transparent}
+.wcm_intro{width:639px;background:transparent url(/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_bg.png) repeat-y scroll top left;padding-left:50px;padding-right:30px;font-family:sans-serif;font-size:11px;line-height:14px}
+div#page .wcm_intro p{padding:0}
+#rr_title_box div.shift_right{padding-left:59px;width:630px}
+#rr_title_box_swacurve{position:absolute;bottom:14px;left:0;height:76px;width:81px;background:transparent url(/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/box-swacurve.png) no-repeat scroll bottom left}
+.rr_about_submenu{list-style:none;margin:13px 18px 0;padding:0}
+.rr_about_submenu_item{background:url('/assets/images/mkt/loyalty/rapid_rewards/rr-about-cta-icons.png') no-repeat;float:left;height:85px;position:relative;vertical-align:top}
+.rr_about_submenu_item .rr_about_submenu_link,.rr_about_submenu_item .rr_about_submenu_title{color:#203080;display:block;font:bold 15px/1.2 Arial,sans-serif;height:38px;padding:5px 0 0 54px;text-align:left}
+.rr_about_submenu_item .rr_about_submenu_link:hover{text-decoration:underline}
+.rr_about_submenu_item_overview-and-rules{background-position:0 0;padding-right:12px;width:130px}
+.rr_about_submenu_item_points-center{background-position:0 -84px;padding-right:16px;width:130px}
+.rr_about_submenu_item_emails{background-position:0 -168px;width:118px}
+.rr_about_submenu_item_faq{background-position:0 -252px;width:108px}
+.rr_about_submenu_item_enroll{background-position:0 -337px;width:192px}
+.rr_about_submenu .enroll-link{padding-left:56px}
+.overview-and-rules .rr_about_submenu_item_overview-and-rules:after,.points-center .rr_about_submenu_item_points-center:after,.emails .rr_about_submenu_item_emails:after{background:url('/assets/images/mkt/loyalty/rapid_rewards/sm-blue-arrow.png') no-repeat 0 0;bottom:0;content:'';height:42px;position:absolute;width:69px}
+.overview-and-rules .rr_about_submenu_item_overview-and-rules:after{right:85px}
+.points-center .rr_about_submenu_item_points-center:after{right:88px}
+.emails .rr_about_submenu_item_emails:after{right:60px}
+.overview-and-rules .rr_about_submenu_title,.points-center .rr_about_submenu_title,.emails .rr_about_submenu_title{color:#203080}
+.about-section-rr-logged-in .rr_about_submenu_item_overview-and-rules{width:165px}
+.about-section-rr-logged-in .rr_about_submenu_item_points-center{width:161px}
+.about-section-rr-logged-in .rr_about_submenu_item_emails{width:177px}
+.about-section-rr-logged-in .rr_about_submenu_item_faq{width:179px}
+.about-section-rr-logged-in .rr_about_submenu_item_overview-and-rules:after,.about-section-rr-logged-in .rr_about_submenu_item_points-center:after,.about-section-rr-logged-in .rr_about_submenu_item_emails:after{right:120px}
+.rr_blue_box{width:754px;background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_about_detail_bg_e.jpg) repeat-y;clear:both;margin-bottom:12px}
+.wcm_text_header{width:754px;background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_about_detail_bg_top.jpg) no-repeat left top;margin-bottom:10px}
+.rr_blue_box_header_and_desc_only .rr_blue_box_bottom{padding:0 0 21px}
+.rr_blue_box_inner_header .wcm_text_header{background:transparent none;height:auto;width:730px}
+.rr_blue_box_inner_header .wcm_text_header hr{margin:0}
+.rr_blue_box_inner_header .wcm_text_header h3{color:#FFF;padding:5px 0 7px}
+.rr_blue_box_inner_header,.wcm_text{padding:0 10px}
+.wcm_text_float_half_left .wcm_text{float:left;width:330px;padding:0 0 0 12px}
+.wcm_text_padding_bottom_600_left .wcm_text{float:left;padding:0 0 15px;width:552px}
+.wcm_text_padding_bottom_600_left .explore_rewards_container{float:right;margin-right:12px;text-align:right;width:182px}
+.wcm_text_padding_bottom_600_left .explore_rewards_action_text{margin:3px 0;color:white;font-weight:bold}
+.wcm_text p{padding-left:10px!important;padding-right:10px!important;color:#fff}
+.rr_blue_box_bottom{padding:10px 12px 21px;background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_about_detail_bg.jpg) no-repeat left bottom;margin-top:0}
+.rr_blue_box h3,.rr_blue_box h3 A{color:#fcaf19;font-size:16px;letter-spacing:0;line-height:16px;padding:0}
+.wcm_text_header h3{padding-top:16px;padding-left:11px}
+.wcm_text_header h3 span{color:white}
+.rr_blue_box hr{border:dotted 1px #fff;color:#0a1765;background-color:#0a1765;border-style:none none dotted;margin-bottom:10px}
+.wcm_text_header hr{margin-left:9px;margin-right:9px;margin-bottom:0;width:732px}
+.rr_blue_box_content_text p{margin:0 9px!important;min-height:20px}
+.rr_blue_box_content_footer{padding:10px 23px 0 0;font-weight:bold;color:white;text-align:right;vertical-align:middle}
+.rr_blue_box_inner{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_about_detail_inner_bottom.png) no-repeat left bottom;padding-bottom:13px;width:729px}
+.rr_blue_box_inner_top{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_about_detail_inner_top.png) no-repeat left top;width:729px;height:17px}
+.rr_blue_box_inner_content{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_about_detail_inner.gif) repeat-y;padding-left:20px;padding-right:20px;color:#363636;position:relative;width:689px}
+table.dotted_table{font-size:11px;color:#4a494c;width:689px;border-collapse:collapse}
+table.dotted_table td{border-bottom:1px dotted #7e7e7e;padding:11px 0}
+table.dotted_table tr.last_row td{border-bottom:0}
+.dotted_table td.image{width:138px;text-align:center;vertical-align:middle}
+.dotted_table td.button{width:150px;padding-right:5px;text-align:right}
+div.rr_blue_box_inner_content_orange_headers h4,.rr_blue_box_inner_content h3{font-size:15px;color:#fe8100}
+.rr_blue_box_inner_content h4{font-size:9px;color:#000;line-height:12px;font-weight:bold}
+.wcm_text_header_short{width:200px}
+.rr_promo_boxes_container{padding-top:5px;background-color:white}
+.rr_promo_boxes_container_left{float:left;display:inline;margin-left:10px;margin-right:15px;width:310px}
+.rr_promo_boxes_container_center{float:left;display:inline;margin-right:15px;width:200px}
+.rr_promo_boxes_container_right{float:left;display:inline;width:200px}
+.clearfix{clear:both;font-size:0;line-height:0;height:0}
+.rr_marketing_disclaimer{clear:both;color:#636363;font-size:9px;padding:40px 30px 0}
+.orange_button{background:url(/assets/images/mkt/loyalty/rapid_rewards/orange_blue_button.png) no-repeat scroll 0 -22px transparent;height:22px;display:inline-block;padding-left:5px}
+.orange_button span{background:url(/assets/images/mkt/loyalty/rapid_rewards/orange_blue_button.png) no-repeat scroll 100% 0 transparent;color:white;height:22px;line-height:20px;padding:0 12px 0 5px;font-weight:bold;text-shadow:#c56800 0 -1px 0;display:inline-block;font-size:11px}
+.orange_button_buyPoints{background:url(/assets/images/mkt/loyalty/rapid_rewards/orange_buyPoints_button.png) no-repeat scroll transparent}
+.orange_button_buyPoints span{background:0}
+a.orange_button,a.orange_button:link,a.orange_button:hover,a.orange_button:visited{text-decoration:none!important}
+.point_pricing_table table{width:677px;margin:0 10px;font-size:12px}
+.point_pricing_table thead th{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_buy_table_header_bg.png) no-repeat transparent;height:26px;color:white}
+.point_pricing_table tbody tr{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_buy_table_cell_bg.png) repeat-x transparent;font-weight:bold;color:#898989}
+.point_pricing_table td{height:25px;text-align:center}
+.point_pricing_table tfoot th{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_buy_table_footer_bg.png) no-repeat transparent;height:10px}
+.point_pricing_table p{padding:20px 23px 10px!important;font-size:11px}
+.point_pricing_table td.price_cell{color:#213082}
+.rr_inner_emails{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_email_bg_bottom.png) no-repeat left bottom;margin:20px 0 13px 91px;padding-bottom:13px;width:549px}
+.rr_inner_emails_top{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_email_bg_top.png) no-repeat left bottom;width:549px;height:12px}
+.rr_inner_emails_content{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_email_bg.png) repeat-y;padding-left:15px;padding-right:15px;position:relative;color:black}
+.rr_inner_emails_content_text{width:380px}
+.rr_inner_emails_content_text li{background:url(/assets/images/framework/content/modules/pleaseNotice/arror_pleaseNotice_list_item.png) no-repeat scroll 0 5px transparent;list-style:none outside none;margin-bottom:.5em;padding-left:14px}
+.rr_inner_emails_content_image{position:absolute;top:-30px;right:-20px}
+.rr_inner_emails_content h2{color:#1d519f;font-size:14px}
+.rr_inner_emails_content h3{color:#1d519f;font-size:14px;line-height:28px;margin-left:0}
+.rr_inner_emails_content p strong{color:#2884f9;font-size:11px}
+.rr_inner_emails_content p{color:black}
+.email_form_required{color:#1d519f!important;font-size:11px}
+.email_form_field{float:left;font-wight:bold;margin:3px 0;width:142px}
+.email_form_field_customer{width:226px}
+.email_form_field input{margin-top:4px;width:132px}
+.email_form_field_customer input{width:210px}
+.email_table{border-collapse:separate;border-spacing:2px 1px;display:table}
+.email_table_row{background-color:#ececec;display:table-row}
+.email_table_row_even{background-color:#FFF}
+.email_header{font-size:11px;font-weight:bold;height:15px;text-align:center}
+.email_table_cell{display:table-cell;padding:1px;vertical-align:middle}
+.subscription_message{display:block;padding-top:10px;padding-bottom:10px}
+.rr_email_subscribe hr{border:dotted 1px black;color:#f1f1f1;background-color:#f1f1f1;border-style:none none dotted;width:510px}
+.rr_email_subscribe .rr_email_subscribe_content:after{clear:both;content:' ';display:table}
+.float_left{float:left}
+.float_right{float:right}
+.bold{font-weight:bold}
+.rr_main_blue_box{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_main_blue_box_bg.jpg) repeat-y;width:760px}
+.rr_main_blue_box_top{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_main_blue_box_top.jpg) no-repeat left bottom;width:760px;height:28px}
+.rr_main_blue_box_bottom{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_main_blue_box_bottom.jpg) no-repeat left bottom;width:710px;height:87px;padding:0 25px;position:relative}
+.rr_main_blue_box_content_left{background:url(/assets/images/mkt/loyalty/rapid_rewards/rr_magnifying.png) transparent no-repeat left bottom;width:148px;height:149px;position:absolute;top:-22px;left:35px}
+.rr_main_blue_box_content_right{margin-left:183px}
+.rr_main_blue_box_content_right h2{font-size:21px;color:white}
+.rr_main_blue_box_content_right h3{font-size:18px;font-weight:normal;color:white}
+.rr_main_blue_box_content_right a.orange_button{float:right;margin-top:-24px;margin-right:10px}
+.rr_main_video_gallery_button{position:absolute;bottom:20px;right:34px;font-weight:bold;color:#1d519f;font-size:11px}
+.rr_main_video_gallery_button .orange_button{margin-left:8px}
+.rr_points_tip{background:url("/assets/images/mkt/loyalty/rapid_rewards/earn/rr_earn_points_detail_tip.png") top left no-repeat;clear:both;line-height:45px;padding-left:7px}
+.rr_points_tip_text{color:#304cb2;display:inline-block;font:bold 22px/33px Arial,Helvetica,sans-serif;letter-spacing:-0.07em;position:relative;text-align:left;text-transform:uppercase;top:4px}
+.rr_points_text{display:inline-block;font-size:10px;padding-left:5px}
+.rr_content_promotions{background-position:0 -60px;-moz-border-radius:11px 11px 0 0;-webkit-border-radius:11px 11px 0 0;border-radius:11px 11px 0 0}
+.rr_promotions h4{font-size:16px;line-height:16px}
+.rr_promotions td{font:11px/13px Verdana,Tahoma,sans-serif}
+.rr_promotions a.orange_button{float:right;margin-top:10px}
+.rr_promotions td.image{padding-right:35px}
+.rr_promotions_blue_box{margin-top:40px}
+.rr_promotions_table{width:760px!important;margin:15px 0 5px;background:url("/assets/images/mkt/loyalty/rapid_rewards/promotions/table_hr_bottom.jpg") bottom center no-repeat}
+.rr_promotions_table tr.last_row td{padding-bottom:40px}
+.rr_promotions_table td{min-height:110px}
+.rr_promotions_table td.image{width:150px;vertical-align:top}
+.rr_promotions_table h4{font-size:16px;line-height:16px;margin-bottom:10px}
+.rr_content_promotions .wcm_grid_cell_image_left{padding:10px 0}
+.rr_content_promotions .wcm_grid_cell_text_with_image_and_button{width:62%;margin-left:2%}
+.rr_content_promotions .wcm_grid_cell_button_right_outside_text{width:15%;padding:30px 0 0}
+.rr_content_promotions .wcm_grid_cell_text_with_image_and_button h4{font-size:16px;line-height:16px}
+.rr_content_promotions_featured .wcm_grid_cell_image_left,.rr_content_promotions_featured .wcm_grid_cell_image_right{width:35%}
+.rr_content_promotions_featured .wcm_grid_cell_text_with_image{width:62%;margin-left:2%}
+.rr_content_promotions_other{padding:0 20px 30px;background-color:white;width:720px}
+.rr_content .wcm_grid_title,.rr_content .wcm_grid_title .wcm_content_link{font-size:16px;letter-spacing:0;line-height:16px;padding:0}
+.wcm_grid_cell_text_new_flag{position:absolute;display:none;width:42px;height:45px;background:url(/assets/images/mkt/loyalty/rapid_rewards/partner/new_flag.gif) top right no-repeat;top:0;right:0}
+.rr_two_column_partner_container div.wcm_grid_cell_image_left,.rr_two_column_partner_container div.wcm_grid_cell_image_right{width:40%;padding:20px 0}
+.rr_two_column_partner_container div.wcm_grid_cell_text_with_image{width:57%;margin-left:2%;padding:20px 0}
+.rr_two_column_partner_container div.wcm_grid_cell_text_with_image H4{font-size:13px;line-height:15px}
+.wcm_text_header SPAN{color:white}
+.wcm_text_header SPAN.rightArrow{background:transparent url("/assets/images/loyalty/arrow_menlo_white.gif") no-repeat scroll center center;display:inline-block;margin:0 5px;width:16px;height:16px}
+.pointsActionItem{border-top:1px solid #888;padding:10px 0}
+.pointsActionItem p{padding:5px 10px 10px!important}
+.pointsActionItem.first{border-top:0}
+.pointsActionItem .blueButton{float:right;margin-right:10px;width:155px}
+.pointsActionItem .blueButton:hover{text-decoration:none}
+.pointsActionItem .blueButton span{width:135px}
+.wcm_purchased_points_note_rapid_rewards{font-size:10px;font-weight:normal;padding-left:39px;text-align:left}
+.wcm_grid_cell_container .wcm_grid_cell_heading{line-height:17px;margin:0}
+.rr_blue_box .wcm_text_header h2{color:#FFF;font-size:16px;letter-spacing:0;line-height:16px;margin-left:9px;padding:16px 0 0 11px}
+.rr_marketing_nav_real_text{background-color:#38459a;-moz-border-radius:11px 11px 0 0;-webkit-border-radius:11px 11px 0 0;border-radius:11px 11px 0 0;box-sizing:border-box;height:60px;margin:0;padding:8px 0 0;width:760px}
+.rr_marketing_nav_real_text>.rr_marketing_nav_list_item{background:#e7e9f4;background:-moz-linear-gradient(top,#fff 0,#e7e9f4 100%);background:-webkit-linear-gradient(top,#fff 0,#e7e9f4 100%);background:linear-gradient(to bottom,#fff 0,#e7e9f4 100%);box-sizing:border-box;display:inline-block;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF',endColorstr='#E7E9F4',GradientType=0);float:left;font-family:Arial,sans-serif;font-size:15px;font-weight:bold;letter-spacing:-1px;line-height:52px;text-align:center}
+.rr_marketing_nav_real_text>.active_list_item{background:#e7e9f4;background:-moz-linear-gradient(top,#e7e9f4 0,#fff 100%);background:-webkit-linear-gradient(top,#e7e9f4 0,#fff 100%);background:linear-gradient(to bottom,#e7e9f4 0,#fff 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#E7E9F4',endColorstr='#FFFFFF',GradientType=0)}
+.rr_marketing_nav_real_text>.rr_marketing_nav_list_item:first-child{-moz-border-radius-topleft:10px;-webkit-border-top-left-radius:10px;border-top-left-radius:10px}
+.rr_marketing_nav_real_text>.rr_marketing_nav_list_item:last-child{-moz-border-radius-topright:10px;-webkit-border-top-right-radius:10px;border-top-right-radius:10px}
+.rr_marketing_nav_list_item>.rr_marketing_nav_link{color:#304cb2;text-decoration:none}
+.rr_marketing_nav_list_item>.rr_marketing_nav_link:hover{color:#111b40;text-decoration:underline}
+.active_list_item>.rr_marketing_nav_link,.active_list_item>.rr_marketing_nav_link:hover{color:#000;margin-right:10px;text-decoration:none}
+.active_list_item>.rr_marketing_nav_link:before{background:no-repeat 0 7px url('/assets/images/rapid-rewards/rr_active_tab.png');background-size:7px 4px;content:'';padding-right:10px}
+.overview-list-item{width:149px}
+.about-list-item{width:74px}
+.how-to-earn-list-item{width:111px}
+.how-to-redeem-list-item{width:130px}
+.tiers-more-alist-list-item{width:112px}
+.partners-list-item{width:87px}
+.promotions-list-item{width:97px}
+.wcm_intro a,.rr_content .wcm_content_link{color:#304cb2}
+.wcm_intro a:hover,.rr_content .wcm_content_link:hover{color:#111b40}
+.rr_blue_box .wcm_text_header .wcm_text_header_title{color:#FFF}
+.rr_blue_box_inner_content_orange_headers .wcm_grid_section_title{color:#203080}
+.rr-disclaimer{color:#636363}
+.rr-featured_promotions{margin:0}
+.rr_blue_box_inner_content .details_text{color:#000}

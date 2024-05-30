@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="29px" viewBox="0 0 48 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/2X Copy 2gray</title>
+    <defs>
+        <path d="M8.234,7.10542736e-15 C15.081,7.10542736e-15 18.273,3.486 18.273,8.149 C18.273,11.594 16.719,14.282 12.896,18.819 L9.746,22.6 C9.325,23.146 8.905,23.566 8.612,23.818 L8.654,23.902 C8.989,23.818 9.409,23.776 9.788,23.776 L19.155,23.776 L19.155,28.985 L1.092,28.985 L0.042,25.624 L6.301,18.063 C10.838,12.56 12.098,10.627 12.098,8.695 C12.098,6.721 10.754,5.418 7.645,5.418 C5.335,5.418 3.277,6.007 1.26,7.015 L-1.27897692e-13,1.722 C2.352,0.63 5.503,7.10542736e-15 8.234,7.10542736e-15 Z M27.9723,0.5463 L34.1053,9.9133 C34.3153,9.3673 34.4833,9.0733 34.6933,8.7373 L39.7343,0.5463 L46.5813,0.5463 L37.2983,14.7443 L46.5393,28.9853 L39.6923,28.9853 L33.6853,19.4073 C33.5173,19.8693 33.3493,20.1213 33.1393,20.4573 L27.7203,28.9853 L20.8733,28.9853 L30.3673,14.5763 L21.1253,0.5463 L27.9723,0.5463 Z" id="path-1"></path>
+    </defs>
+    <g id="Biz-cards-LP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Biz-Open-" transform="translate(-828.000000, -2478.000000)">
+            <g id="Points" transform="translate(20.500000, 2360.000000)">
+                <g id="Group" transform="translate(806.000000, 118.000000)">
+                    <g id="Group" transform="translate(1.999800, 0.000500)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#000000" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)">
+                            <g transform="translate(-1.999800, -0.000500)">
+                                <rect id="Rectangle-4" fill="#5E7E95" fill-rule="nonzero" x="0" y="0" width="50" height="50"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

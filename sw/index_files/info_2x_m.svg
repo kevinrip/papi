@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>button/info_2x_m</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.024,4.99365 C12.51536,5.43465 11.7634,5.42655 11.33968,4.97205 C10.91992,4.51665 10.99076,3.78945 11.49852,3.34845 C12.00628,2.9052 12.75912,2.91465 13.18108,3.37005 C13.60172,3.82365 13.53176,4.55085 13.024,4.99365 M10.70212,12.6162 C9.58188,13.0194 8.65744,12.55815 8.84356,11.45745 C9.02792,10.35585 10.09184,8.001 10.24276,7.5546 C10.395,7.1082 10.10416,6.9867 9.7922,7.16805 C9.61356,7.2756 9.34692,7.4871 9.11724,7.69365 C9.053,7.56315 8.96324,7.41285 8.8968,7.2702 C9.27124,6.885 9.8956,6.372 10.637,6.1848 C11.5214,5.9616 13.00024,6.31845 12.364,8.0496 C11.9108,9.28125 11.5896,10.13085 11.38676,10.76445 C11.18568,11.3985 11.42504,11.53125 11.77968,11.2842 C12.05512,11.0907 12.34992,10.82835 12.56596,10.6254 C12.66672,10.7919 12.69708,10.84365 12.79652,11.0349 C12.42164,11.4282 11.44132,12.34665 10.70212,12.6162 M10.85392,0 C6.5604,0 3.08,3.5595 3.08,7.9506 C3.08,12.3408 6.5604,15.90075 10.85392,15.90075 C15.14744,15.90075 18.62696,12.3408 18.62696,7.9506 C18.62696,3.5595 15.14744,0 10.85392,0" id="path-1"></path>
+    </defs>
+    <g id="Priority-card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-opt-2---tooltip-visible" transform="translate(-206.000000, -1877.000000)">
+            <g id="travel-benefits" transform="translate(11.000000, 1389.000000)">
+                <g id="Alist" transform="translate(24.000000, 423.000000)">
+                    <g id="icon/tooltip" transform="translate(168.000000, 65.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Fill-1" fill="#0D4BA0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <g id="colors/SWA_RR_dkblue" mask="url(#mask-2)" fill="#1A2C80" fill-rule="nonzero">
+                            <rect id="Rectangle-5" x="0" y="0" width="22" height="18"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

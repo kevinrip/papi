@@ -1,0 +1,232 @@
+/* 3/25/24 Companion Pass reg page */
+
+
+/* Hide Book-Now while Register Button visibile */
+section:has(button[class^="registerButton__"]) #bookNowCTA {
+  display: none !important;
+}
+/*hide create-account-link RMAC already logged-in */
+ #rr-enroll-q, #rr-enroll-link {
+  display:none;
+}
+
+/*button styles*/
+ .cp.actionable_primary {
+    display:inline-block;
+    margin-top:1em;
+    width:100%;
+    background-color: #ffbf27;
+    border: 1px solid #ffbf27;
+    border-radius: 2px;
+    box-shadow: 0 1px #8f8f8f;
+    color: #111b40;
+    font: bold 14px/1 Arial;
+    min-height: 32px;
+    padding: 0 20px 1px;
+    text-align: center;
+    transition: background-color .3s ease-out,background .3s ease-out,border .3s ease-out,box-shadow .3s ease-out,color .3s ease-out,opacity .3s ease-out;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* Flex CTA underline issue fix */
+.actionable_advertisement:hover > .actionable--text {
+    text-decoration: none;
+}
+
+.swa-g-screen-reader-only {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 0;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/* Fixes to CTA on Registration Page */
+#promotion_ovm44bj3rp .actionable_primary {
+	background-color: #ffbf27;
+    border: 1px solid #ffbf27;
+    border-radius: 2px;
+    box-shadow: 0 1px #8f8f8f;
+    color: #111b40;
+    display: block;
+    font: bold 14px/1 Arial;
+    min-height: 32px;
+	text-align: center;
+}
+
+#root > [class*=page] > [class*=modalContainer] {
+    display: none;
+}
+
+
+/* KEEP LAYOUT - Responsive column widths for View All promotions placement on index and payments */
+.medium.loyalty-myaccount-index .placement_myAccountLoyaltyPromoFooterAd  {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.large.loyalty-myaccount-index .placement_myAccountLoyaltyPromoFooterAd  {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.xlarge.loyalty-myaccount-index .placement_myAccountLoyaltyPromoFooterAd  {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.medium.loyalty-myaccount-payment .placement_myAccountLoyaltyPromoFooterAd  {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.large.loyalty-myaccount-payment .placement_myAccountLoyaltyPromoFooterAd  {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+}
+
+.xlarge.loyalty-myaccount-payment .placement_myAccountLoyaltyPromoFooterAd  {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+}
+
+
+
+/* KEEP LAYOUT - Responsive column widths for promotions section placements */
+
+.medium.loyalty-myaccount-rapid-rewards .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.medium.loyalty-myaccount-promotions .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.large.loyalty-myaccount-promotions .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+}
+
+.xlarge.loyalty-myaccount-promotions .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+
+.medium.loyalty-myaccount-index .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.large.loyalty-myaccount-index .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.xlarge.loyalty-myaccount-index .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.medium.loyalty-myaccount-payment .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.large.loyalty-myaccount-payment .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+.xlarge.loyalty-myaccount-payment .placement_loyaltyPromotions .flex-placement {
+    gap: 8px 16px; 
+    margin: 0px auto; 
+    grid-template-columns: 1fr 1fr; 
+    display: grid; 
+    width: 100%; 
+    height: auto;
+  }
+
+
+/* KEEP - Resize button on View All promotions placement on xlarge display */
+.xlarge.loyalty-myaccount-index #text_block_kfvh65utfso {
+     margin: 0 auto 0 auto;
+     width: 50%;
+  }
+
+.xlarge.loyalty-myaccount-payment #text_block_kfvh65utfso {
+     margin: 0 auto 0 auto;
+     width: 50%;
+  }
+
+.loyalty-myaccount-index div[class^="flightCreditLabel__"] div[class^="confirmationNumber__"] span[class^="number__"] span[tabindex="0"], .loyalty-myaccount-payment div[class^="flightCreditLabel__"] div[class^="confirmationNumber__"] span[class^="number__"] span[tabindex="0"]
+{
+    -moz-user-select: text;
+    -webkit-user-select: all;
+  }

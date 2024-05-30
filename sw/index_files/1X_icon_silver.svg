@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="29px" viewBox="0 0 46 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/1Xgray</title>
+    <defs>
+        <path d="M28.5437,0.4631 L34.6767,9.8301 C34.8867,9.2841 35.0547,8.9901 35.2647,8.6541 L40.3057,0.4631 L47.1527,0.4631 L37.8697,14.6611 L47.1107,28.9021 L40.2637,28.9021 L34.2567,19.3241 C34.0887,19.7861 33.9207,20.0381 33.7107,20.3741 L28.2917,28.9021 L21.4447,28.9021 L30.9387,14.4931 L21.6967,0.4631 L28.5437,0.4631 Z M14.014,-7.10542736e-15 L14.014,28.902 L8.132,28.902 L8.132,6.343 L2.63,7.141 L2,1.933 L14.014,-7.10542736e-15 Z" id="path-1"></path>
+    </defs>
+    <g id="Biz-cards-LP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Biz-Open-" transform="translate(-1087.000000, -2478.000000)">
+            <g id="Points" transform="translate(20.500000, 2360.000000)">
+                <g id="icon/1X" transform="translate(1065.000000, 118.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#000000" xlink:href="#path-1"></use>
+                    <g id="Group" mask="url(#mask-2)" fill="#5E7E95" fill-rule="nonzero">
+                        <g id="Rectangle-4">
+                            <rect x="0" y="0" width="50" height="50"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+.easy-autocomplete-container{background-color:#FFF;position:absolute;width:100%}
+.easy-autocomplete-container .easy-autocomplete-list{margin:0}
+.easy-autocomplete-container .easy-autocomplete-list .easy-autocomplete-item{border-bottom:0;color:#111b40;font:normal 16px arial;padding:5px 3px}
+.easy-autocomplete-container .easy-autocomplete-list .easy-autocomplete-item .easy-autocomplete-already-typed{font-weight:bold}
+.easy-autocomplete-container .easy-autocomplete-list .easy-autocomplete-item.selected{background-color:#e6e7e8}
+.gsaSearchResultPage{background-color:#FFF;position:relative}
+.gsaSearchResultPage .easy-autocomplete-list{margin:0;padding:0}
+.gsaSearchResultPage .easy-autocomplete-list .easy-autocomplete-item .easy-autocomplete-already-typed{display:inline-block;font-weight:bold;padding:0}
+.gsaSearchResultPage .easy-autocomplete-list .easy-autocomplete-item.selected{background-color:#e6e7e8}
+.gsaSearchResultPage .easy-autocomplete-container{width:256px}
+.gsaSearchResultPage .easy-autocomplete-container .easy-autocomplete-list .easy-autocomplete-item{border-bottom:0;color:#111b40;font:normal 12px arial;list-style:none;margin:0;padding:2px 0}
+.button-align{float:left;margin-left:10px}
+.gsa-search-faq{background-color:#FFF;position:relative}
+.gsa-search-faq .easy-autocomplete-list{margin:0;padding:0}
+.gsa-search-faq .easy-autocomplete-list .easy-autocomplete-item .easy-autocomplete-already-typed{display:inline-block;font-weight:bold;padding:0}
+.gsa-search-faq .easy-autocomplete-list .easy-autocomplete-item.selected{background-color:#e6e7e8}
+.gsa-search-faq .easy-autocomplete-container{width:371px;z-index:1}
+.gsa-search-faq .easy-autocomplete-container .easy-autocomplete-list .easy-autocomplete-item{border-bottom:0;color:#111b40;font:normal 12px arial;list-style:none;margin:0;padding:2px 0}
+.sw2 .swa-header--search-overlay .swa-g-disabled,.sw2 .swa-header--search-overlay .swa-g-disabled:hover{background-color:#e6e7e8;border-color:#e6e7e8;box-shadow:none;color:#636363;opacity:1}
+#page .swa-button.swa-button_primary.swa-g-disabled,#page .swa-button.swa-button_primary.swa-g-disabled:hover{background-color:#e6e7e8;border-color:#e6e7e8;box-shadow:none;color:#636363;opacity:1}
+#swa_module_searchCustomerService .search-button.swa-g-disabled,#swa_module_searchCustomerService .search-button.swa-g-disabled:hover .gsa-search-faq .swa-button.swa-g-disabled,.gsa-search-faq .swa-button.swa-g-disabled:hover{background-color:#e6e7e8;border-color:#e6e7e8;box-shadow:none;color:#636363;opacity:1}
+.swa-header--search-overlay .text-field::-ms-clear,.gsa-search-faq .text-field::-ms-clear{display:none}
+#page .swa-header--search-overlay .swa-button_primary{float:right;margin-top:14px;padding:0}
+#page .swa-header--search-overlay .swa-button_primary:focus,.swa-header--search-overlay .swa-button_primary:hover{border-color:#111b40}
+@keyframes overlayInserted{from{opacity:.99}
+to{opacity:1}
+}
+.swa-header--nav .swa-overlay{animation-duration:.001s;animation-name:overlayInserted}

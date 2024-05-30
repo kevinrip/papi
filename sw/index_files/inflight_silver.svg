@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="37px" viewBox="0 0 34 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/inflight_silver</title>
+    <defs>
+        <path d="M32.8536752,12.112 L31.8166752,19.251 L27.7986752,19.251 L28.9756752,12.112 L32.8536752,12.112 Z M25.4246752,12.112 L24.2516752,19.251 L13.9116752,19.251 L12.8746752,12.112 L25.4246752,12.112 Z M41.3806752,3.456 L41.3806752,0 L29.6266752,0 C28.3886752,0 27.3926752,0.666 27.1726752,1.937 L26.1796752,7.673 C26.1796752,7.673 10.9576752,7.675 9.76167515,7.673 C8.56867515,7.666 7.85867515,8.472 8.02367515,9.625 C8.19267515,10.766 11.5246752,33.547 11.6666752,34.714 C11.8116752,35.887 12.7496752,36.829 13.9876752,36.829 L31.6206752,36.829 C32.8986752,36.824 33.8596752,36.114 34.0436752,34.815 C34.2336752,33.52 37.4746752,11.154 37.6856752,9.753 C37.8956752,8.351 37.3396752,7.673 35.9746752,7.673 L29.7276752,7.673 L30.1576752,5.148 C30.3666752,3.926 30.7256752,3.476 32.1906752,3.456 C33.2986752,3.44 41.3806752,3.456 41.3806752,3.456 L41.3806752,3.456 Z" id="path-1"></path>
+    </defs>
+    <g id="Biz-cards-LP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Biz-Open-" transform="translate(-992.000000, -2675.000000)">
+            <g id="travel-benefits" transform="translate(222.000000, 2403.000000)">
+                <g id="Group-7" transform="translate(678.000000, 240.000000)">
+                    <g id="icon/nofx-copy-5" transform="translate(84.000000, 32.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="icon/drinks" fill="#304CB2" xlink:href="#path-1"></use>
+                        <g id="Group" mask="url(#mask-2)" fill="#5E7E95" fill-rule="nonzero">
+                            <g id="colors/SWA_blue">
+                                <rect id="Rectangle-4" x="0" y="0" width="50" height="40"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

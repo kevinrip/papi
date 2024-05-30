@@ -1,0 +1,27 @@
+#RRSubNav,#breadcrumbs{margin-bottom:15px;position:relative;height:35px;z-index:500}
+#secondaryNavContainerDiv{position:absolute}
+#secondaryNavContainer{padding:0;margin:10px 0 0 10px;border-collapse:collapse;list-style-type:none;float:left}
+#secondaryNavContainer{padding:0 11px 11px 0;border-bottom:1px solid #e8e8e8;margin:11px 0 0 0}
+#RRSubNav #secondaryNavContainer{margin:0;padding:0}
+#secondaryNavContainer LI,#RRSubNav #secondaryNavContainer LI{margin:0;padding:11px 10px 11px 12px;float:left;font-weight:normal;font-size:11px;line-height:13px;height:13px;font-family:Helvetica,Arial,sans-serif;vertical-align:bottom}
+#secondaryNavContainer LI{padding:0 0 0 14px}
+#secondaryNavContainer LI.secondaryNavProduct{font-weight:bold!important;padding-left:6px}
+#rr_subnav_dropDown LI.secondaryNavProduct{color:#666}
+#secondaryNavContainer LI.secondaryNavItem{padding-left:5px!important}
+#secondaryNavContainer LI.secondaryNavItemWithDot{background-color:transparent;background-repeat:no-repeat;background-attachment:scroll;background-position:6px 4px;^background-position:6px 5px;background-image:url('/assets/images/sprites/sw_buttons_icons_vertical.png');background-position:left -2418px}
+.secondaryNavItemWithDot .secondaryNavItemWithDot-link,.secondaryNavItemWithDot .secondaryNavPopulateSession,.secondaryNavProduct .secondaryNavItemWithDot-link{color:#304cb2}
+.secondaryNavItemWithDot .secondaryNavItemWithDot-link:hover,.secondaryNavItemWithDot .secondaryNavPopulateSession:hover,.secondaryNavProduct .secondaryNavItemWithDot-link:hover{color:#111b40;text-decoration:underline}
+#RRSubNav #secondaryNavContainer LI.secondaryNavItemWithDot{background-repeat:no-repeat;background-position:left 16px;background-image:url('/assets/images/sprites/sw_buttons_icons_vertical.png');background-position:left -2446px}
+#rr_subnav_dropDown{position:absolute;top:26px;left:0;display:none;z-index:600}
+#rr_subnav_dropDown UL#dropdown_menu{list-style-type:none;background:url('/assets/images/loyalty/rr_dropdown_sprite.gif') no-repeat -78px bottom;float:none;display:block;margin:0;padding:10px 42px 10px 16px}
+#RRSubNav #secondaryNavContainer LI#rapidrewardsmenu{background:url('/assets/images/loyalty/rr_dropdown_sprite.gif') no-repeat -140px -222px;padding-right:24px}
+#RRSubNav #secondaryNavContainer LI#rapidrewardsmenu.rr_menu_extended{background:url('/assets/images/loyalty/rr_dropdown_sprite.gif') no-repeat -78px -156px;padding-right:89px}
+LI#rapidrewardsmenu a{cursor:pointer}
+#sub-nav-bookend{float:left;height:35px;width:8px;background-image:url('/assets/images/sprites/sw_common_horizontal.png');background-position:-3974px top}
+.car-search #breadcrumbs{border:none!important}
+.rapid-rewards-link,.rapid-rewards-link:link,.rapid-rewards-link:visited{color:#304cb2}
+.current-rapid-rewards-item .rapid-rewards-link,.rapid-rewards-link:hover{color:#111b40;text-decoration:underline}
+.rapid-rewards-link-dropdown{background:url(/assets/images/framework/menus/swa_globalNav_arrow_sprite.png) left 4px no-repeat;padding-left:12px}
+.rapid-rewards-link-dropdown:hover{background-position:left -16px}
+.rapid-rewards-link-dropdown_active{background-position:left -6px}
+.rapid-rewards-link-dropdown_active:hover{background-position:left -26px}

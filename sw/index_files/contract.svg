@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>button/contract</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="18" height="18" rx="4"></rect>
+        <filter x="-2.8%" y="-2.8%" width="105.6%" height="111.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Priority-card---swa-blue,-centered-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-12.000000, -629.000000)">
+            <g id="buttons/contract" transform="translate(12.000000, 629.000000)">
+                <g>
+                    <g id="button" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <rect stroke="#CCCCCC" stroke-width="1" stroke-linejoin="square" fill="#F5F5F5" fill-rule="evenodd" x="0.5" y="0.5" width="17" height="17" rx="4"></rect>
+                    </g>
+                    <polygon id="-" fill="#304CB2" points="8.24 9.78 5 9.78 5 8.32 8.24 8.32 9.8 8.32 13.02 8.32 13.02 9.78 9.8 9.78"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

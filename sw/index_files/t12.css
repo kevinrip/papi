@@ -1,0 +1,116 @@
+.rr_content{margin-top:10px}
+UL.rr_marketing_nav{clear:both;list-style-type:none;margin:0;padding:0;height:34px}
+UL.rr_marketing_nav LI{padding:0;margin:0;float:left;clear:right}
+UL.rr_marketing_nav LI a,UL.rr_marketing_nav LI a:link,UL.rr_marketing_nav LI a:visited,UL.rr_marketing_nav LI a:active{height:60px;display:block;text-decoration:none;cursor:pointer}
+UL.rr_marketing_nav LI a{cursor:default}
+UL.rr_marketing_nav LI#overview a{width:149px;background:url('/assets/images/rapid-rewards/rr_tabs.png') 0 0}
+UL.rr_marketing_nav LI#about a{width:74px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -149px -60px}
+UL.rr_marketing_nav LI#how-to-earn a{width:111px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -224px -120px}
+UL.rr_marketing_nav LI#how-to-redeem a{width:130px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -336px -180px}
+UL.rr_marketing_nav LI#tiers-more-alist a{width:112px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -466px -240px}
+UL.rr_marketing_nav LI#partners a{width:87px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -578px -300px}
+UL.rr_marketing_nav LI#promotions a{width:97px;background:url('/assets/images/rapid-rewards/rr_tabs.png') -663px -360px}
+UL.rr_marketing_nav LI#overview a:link,UL.rr_marketing_nav LI#overview a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') 0 -120px}
+UL.rr_marketing_nav LI#about a:link,UL.rr_marketing_nav LI#about a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -149px 0}
+UL.rr_marketing_nav LI#how-to-earn a:link,UL.rr_marketing_nav LI#how-to-earn a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -224px 62px}
+UL.rr_marketing_nav LI#how-to-redeem a:link,UL.rr_marketing_nav LI#how-to-redeem a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -336px 62px}
+UL.rr_marketing_nav LI#tiers-more-alist a:link,UL.rr_marketing_nav LI#tiers-more-alist a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -466px 62px}
+UL.rr_marketing_nav LI#partners a:link,UL.rr_marketing_nav LI#partners a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -578px 242px}
+UL.rr_marketing_nav LI#promotions a:link,UL.rr_marketing_nav LI#promotions a:visited{background:url('/assets/images/rapid-rewards/rr_tabs.png') -663px 0}
+.rr_content{background:transparent url(/assets/images/mkt/loyalty/rapid_rewards/rr_partner_about_bg_blue.jpg) no-repeat scroll top left;clear:both}
+#rr_title_box{width:719px;background:transparent url(/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_bottom.png) no-repeat scroll bottom left;padding-bottom:55px;position:relative;margin-top:15px}
+.wcm_page_header{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top.png") no-repeat scroll left top transparent;font-size:24px;line-height:26px;color:#203080;font-weight:bold;letter-spacing:0;padding-left:50px;overflow:hidden;width:668px;^width:718px;padding-top:20px;height:35px;^height:55px}
+.wcm_page_header H1{border:0;margin:0;padding:0;font-size:24px;line-height:26px;color:#203080;font-weight:bold;letter-spacing:0}
+#wcm_page_header_about_rr{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_about_rr.png") no-repeat scroll left top transparent}
+#wcm_page_header_how_to_earn{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_how_to_earn.png") no-repeat scroll left top transparent}
+#wcm_page_header_how_to_redeem{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_how_to_redeem.png") no-repeat scroll left top transparent}
+#wcm_page_header_tiers{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_tiers.png") no-repeat scroll left top transparent}
+#wcm_page_header_partners{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_partners.png") no-repeat scroll left top transparent}
+#wcm_page_header_promotions{background:url("/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_top_promotions.png") no-repeat scroll left top transparent}
+.wcm_intro{width:639px;^width:719px;background:transparent url(/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/rr_title_box_bg.png) repeat-y scroll top left;padding-left:50px;padding-right:30px;font-family:sans-serif;font-size:11px;line-height:14px}
+div#page .wcm_intro p{padding:0}
+#rr_title_box div.shift_right{padding-left:59px;width:630px;^width:719px}
+#rr_title_box_swacurve{position:absolute;bottom:14px;left:0;height:76px;width:81px;background:transparent url('/assets/images/mkt/loyalty/rapid_rewards/rr_title_box/box-swacurve.png') no-repeat scroll bottom left}
+.swa_feature_rapidRewards_partners_categories{height:83px;margin:18px 0 0 28px;padding:0}
+.swa_feature_rapidRewards_partners_categories_item{float:left;height:83px;list-style:none;position:relative;vertical-align:top;width:141px}
+.swa_feature_rapidRewards_partners_categories_item_title{color:#203080;font:bold 15px/1.2 Arial,sans-serif}
+.swa_feature_rapidRewards_partners_categories .swa_feature_rapidRewards_partners_categories_item_link{background:url('/assets/images/mkt/loyalty/rapid_rewards/partner/rr-partners-cta-icons-blue.png') no-repeat;color:#203080;display:block;font:bold 15px/1.2 Arial,sans-serif;height:38px;padding:5px 0 0 54px;text-align:left}
+.swa_feature_rapidRewards_partners_categories_item_active:after{background:url('/assets/images/mkt/loyalty/rapid_rewards/sm-blue-arrow.png') no-repeat bottom left;bottom:0;content:'';height:42px;left:-11px;position:absolute;width:69px}
+.swa_feature_rapidRewards_partners_categories .swa_feature_rapidRewards_partners_categories_item_1{background-position:0 0}
+.swa_feature_rapidRewards_partners_categories .swa_feature_rapidRewards_partners_categories_item_2{background-position:0 -82px}
+.swa_feature_rapidRewards_partners_categories .swa_feature_rapidRewards_partners_categories_item_3{background-position:0 -164px}
+.swa_feature_rapidRewards_partners_categories .swa_feature_rapidRewards_partners_categories_item_4{background-position:0 -246px}
+.swa_feature_rapidRewards_partners_categories .swa_feature_rapidRewards_partners_categories_item_5{background-position:0 -328px}
+.swa_feature_rapidRewards_partners_subcategories{clear:both;height:32px;width:754px;background-image:url('/assets/images/framework/tabs/rapidrewards_partners_subcategories_tabs.png');list-style-type:none;padding:0;margin:0}
+.swa_feature_rapidRewards_partners_subcategories_item{float:left;height:32px}
+.swa_feature_rapidRewards_partners_subcategories_item div{background-image:url('/assets/images/framework/tabs/rapidrewards_partners_subcategories_tabs.png');background-position:left -32px;padding-left:2px;height:32px;float:left}
+.swa_feature_rapidRewards_partners_subcategories_item_active div{background-position:left -96px;color:#FFF}
+.swa_feature_rapidRewards_partners_subcategories_item_first div{background-position:left 0;padding-left:10px}
+.swa_feature_rapidRewards_partners_subcategories_item_first_active div{background-position:left -64px}
+.swa_feature_rapidRewards_partners_subcategories_item a{background-image:url('/assets/images/framework/tabs/rapidrewards_partners_subcategories_tabs.png');background-position:right -32px;color:#304cb2;display:block;float:left;font:bold 12px/13px Arial,Helvetica,sans-serif;height:32px;vertical-align:middle}
+.swa_feature_rapidRewards_partners_subcategories_item_active a{background-position:right -96px;color:#FFF}
+.swa_feature_rapidRewards_partners_subcategories_item_first a{background-position:right -32px}
+.swa_feature_rapidRewards_partners_subcategories_item_first_active a{background-position:right -96px;color:#FFF}
+.swa_feature_rapidRewards_partners_subcategories_item a span{display:block;padding:10px 10px 5px 10px;float:left}
+.swa_feature_rapidRewards_partners_subcategories_item_first a span{padding-left:5px}
+.swa_feature_rapidRewards_partners_category_description{background-image:url('/assets/images/rapid-rewards/rapidrewards_category_description.png');width:754px;height:240px;position:relative;clear:both}
+.swa_feature_rapidRewards_partners_category_description_no_subcategories{background-image:url('/assets/images/rapid-rewards/rapidrewards_category_description_no_subcategories.png')}
+.swa_feature_rapidRewards_partners_category_description_left{width:194px;height:240px;position:absolute;left:10px}
+.swa_feature_rapidRewards_partners_category_description_right{width:517px;height:240px;position:absolute;left:227px}
+.swa_feature_rapidRewards_partners_category_description_left .wcm_text_header h3{letter-spacing:0;color:#fcaf19;font-size:16px;line-height:16px;padding-top:16px}
+.swa_feature_rapidRewards_partners_category_description_left .wcm_text_header hr{background-color:#0a1765;border-color:#FFF;border-style:none none dotted;border-width:1px;color:#0a1765}
+.swa_feature_rapidRewards_partners_category_description_left .wcm_text p{color:#FFF}
+.swa_feature_rapidRewards_partners_category_description_right .wcm_grid_container{width:498px;position:relative;margin-top:25px}
+.swa_feature_rapidRewards_partners_category_description_right .wcm_grid_cell_text{width:284px;position:absolute;left:0;top:0;margin-left:0}
+.swa_feature_rapidRewards_partners_category_description_right .wcm_grid_cell_text h4{font-size:16px;line-height:16px}
+.wcm_grid_cell_text li,.dotted_table li,.partner_details_content li{background:url(/assets/images/framework/content/modules/pleaseNotice/arror_pleaseNotice_list_item.png) no-repeat scroll 0 5px transparent;list-style:none outside none;margin-bottom:.5em;padding-left:14px}
+.swa_feature_rapidRewards_partners_category_description_right .wcm_grid_cell_image_right{width:207px;position:absolute;left:294px;top:0}
+.swa_feature_rapidRewards_partners_grid{background-image:url('/assets/images/rapid-rewards/rr-partner-pages-grid-body.png');background-repeat:repeat-y;margin-bottom:15px}
+.swa_feature_rapidRewards_partners_grid_bottom{background-image:url('/assets/images/rapid-rewards/rr-partner-pages-grid-bottom.png');background-repeat:no-repeat;background-position:bottom left}
+.swa_feature_rapidRewards_partners_grid_top{background-image:url('/assets/images/rapid-rewards/rr-partner-pages-grid-top.png');background-repeat:no-repeat}
+.swa_feature_rapidRewards_partners_grid_no_featured_partner .swa_feature_rapidRewards_partners_grid_top{background-image:url('/assets/images/rapid-rewards/rr-partner-pages-grid-top-no-featured-partner.png')}
+.swa_feature_rapidRewards_partners_grid_no_featured_partner_no_subcategories .swa_feature_rapidRewards_partners_grid_top{background-image:url('/assets/images/rapid-rewards/rr-partner-pages-grid-top-no-featured-partner-no-subcategories.png')}
+.swa_feature_rapidRewards_partners_grid_inner{padding:26px 36px 32px 26px}
+.swa_feature_rapidRewards_partners_grid_inner_inner{min-height:210px;^height:210px}
+.swa_feature_rapidRewards_partners_grid .wcm_grid_cell_text{margin-left:0;padding:25px 0 25px 2%;width:77%}
+.swa_feature_rapidRewards_partners_grid .wcm_grid_cell_image_left,.swa_feature_rapidRewards_partners_grid .wcm_grid_cell_image_right{padding:20px 0;width:40%}
+.swa_feature_rapidRewards_partners_grid .wcm_grid_cell_text_with_image{width:57%;padding:20px 0;margin-left:2%}
+.swa_feature_rapidRewards_partners_grid h3,.swa_feature_rapidRewards_partners_grid h4{color:#2884f9;font-size:13px;line-height:16px}
+.orange_button{background:url(/assets/images/mkt/loyalty/rapid_rewards/orange_blue_button.png) no-repeat scroll 0 -22.1px transparent;height:22px;display:inline-block;padding-left:5px}
+.orange_button span{background:url(/assets/images/mkt/loyalty/rapid_rewards/orange_blue_button.png) no-repeat scroll 100% 0 transparent;color:white;height:22px;line-height:22px;padding:0 12px 0 5px;font-weight:bold;text-shadow:#c56800 0 -1px 0;display:inline-block;font-size:11px}
+a.orange_button,a.orange_button:link,a.orange_button:hover,a.orange_button:visited{text-decoration:none!important}
+.swa_feature_rapidRewards_partners_grid_partnerImage{padding-bottom:11px;margin:11px 0}
+.swa_feature_rapidRewards_partners_grid_partnerDetails table.dotted_table{font-size:11px}
+.swa_feature_rapidRewards_partners_grid_partnerDetails table.dotted_table a{color:#304cb2;font-weight:bold}
+.swa_feature_rapidRewards_partners_grid_partnerDetails table.dotted_table a:hover{color:#111b40;text-decoration:underline}
+.swa_feature_rapidRewards_partners_grid_partnerDetails table.dotted_table li{margin-bottom:10px}
+.swa_feature_rapidRewards_partners_grid_partnerDetails table.dotted_table li li{margin-bottom:0;margin-left:20px;list-style:square}
+.swa_feature_rapidRewards_partners_grid_partnerDetails .partner_details_content{font-size:11px}
+.swa_feature_rapidRewards_partners_grid_partnerDetails .partner_details_content li{margin-bottom:10px}
+.swa_layout_columns_2 .swa_layout_columns_column_2{float:right;width:470px}
+.swa_feature_rapidRewards_partners_grid_partnerDetails .dotted_table td h3{color:#333;font-size:11px;font-weight:bold}
+.swa_feature_rapidRewards_partners_grid_partnerDetails .dotted_table td span{margin:10px 0 15px;text-align:center}
+.swa_feature_rapidRewards_partners_grid_partnerDetails .dotted_table td span a{background-color:#ffbf27;border:1px solid;border-color:#fad101 #fad101 #d2af01;border-radius:2px;color:#111b40;display:block;font:bold 14px/1.2 Arial,Helvetica,sans-serif;margin:0 auto;max-width:75px;padding:8px 18px;text-align:center;transition:color ease-out .3s,background ease-out .3s,border-color ease-out .3s;-webkit-transition:color ease-out .3s,background ease-out .3s,border-color ease-out .3s;vertical-align:baseline}
+.swa_feature_rapidRewards_partners_grid_partnerDetails .dotted_table td span a:hover,.swa_feature_rapidRewards_partners_grid_partnerDetails .dotted_table td span a:focus{background:#ffca4f;border-color:#111b40;text-decoration:none}
+.partner_details_content a,.partner_details_content a:link,.partner_details_content a:visited{color:#304cb2}
+.partner_details_content a:hover{color:#111b40;text-decoration:underline}
+.rr_promo_boxes_container{background-color:white;margin-top:15px;float:left;clear:both}
+.rr_promo_boxes_container_left{float:left;display:inline;margin-left:10px;margin-right:15px;width:310px}
+.rr_promo_boxes_container_center{float:left;display:inline;margin-right:15px;width:200px}
+.rr_promo_boxes_container_right{float:left;display:inline;width:200px}
+.rr_marketing_disclaimer{clear:both;color:#888;padding:40px 30px 0 30px;font-size:9px}
+#global_account_bar .global_account_bar_login_form_right{height:16px}
+.item-heading{background:url('/assets/images/framework/tabs/rapidrewards_partners_subcategories_tabs.png') left -32px;float:left;height:32px;line-height:inherit;padding-left:2px}
+.swa_feature_rapidRewards_partners_subcategories_item_active .item-heading{background-position:left -96px;color:#FFF}
+.swa_feature_rapidRewards_partners_subcategories_item_first .item-heading{background-position:left 0;padding-left:10px}
+.swa_feature_rapidRewards_partners_subcategories_item_first_active .item-heading{background-position:left -64px}
+.swa_feature_rapidRewards_partners_subcategories_item .item-link{color:#304cb2}
+.swa_feature_rapidRewards_partners_subcategories_item .item-link:hover .menu-text{color:#111b40;text-decoration:underline}
+.swa_feature_rapidRewards_partners_subcategories_item_active .item-link,.swa_feature_rapidRewards_partners_subcategories_item_active .item-link:hover .menu-text{color:#fff;text-decoration:none}
+.wcm_grid_cell_text_with_image a{color:#304cb2}
+.wcm_grid_cell_text_with_image a:hover{color:#111b40;text-decoration:underline}
+.wcm_grid_credit_card_container_box{float:right}
+.wcm_grid_credit_card_box{float:left;padding:10px 20px;text-align:center}
+.wcm_grid_credit_card_box_premier_business{float:right}
+.swa_feature_rapidRewards_partners_categories .selected-partner{outline:0}
+.swa_feature_rapidRewards_partners_categories .active-partner{display:none}

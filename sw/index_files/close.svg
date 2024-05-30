@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>buttons/close</title>
+    <g id="SWA-PURL-Tabbed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Tabbed---offer-details-1" transform="translate(-1256.000000, -131.000000)">
+            <g id="modal" transform="translate(150.000000, 110.000000)">
+                <g id="buttons/close" transform="translate(1106.000000, 21.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="16" height="16"></rect>
+                    <line x1="2.66666667" y1="2.66666667" x2="13.6068886" y2="13.6068886" id="Line-4" stroke="#1A2C80" stroke-width="3" stroke-linecap="round"></line>
+                    <line x1="2.66666667" y1="2.66666667" x2="13.6068886" y2="13.6068886" id="Line-4" stroke="#1A2C80" stroke-width="3" stroke-linecap="round" transform="translate(8.000000, 8.000000) scale(-1, 1) translate(-8.000000, -8.000000) "></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

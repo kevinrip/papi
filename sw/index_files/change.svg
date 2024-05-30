@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/change</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M35.104,27.033 C37.304,24.582 38.645,21.345 38.645,17.798 C38.645,10.166 32.427,3.953 24.801,3.953 C21.254,3.953 18.017,5.296 15.569,7.496 C12.741,10.033 10.955,13.712 10.955,17.798 C10.955,25.434 17.171,31.644 24.801,31.644 C28.889,31.644 32.567,29.86 35.104,27.033 Z M24.801,-1.0658141e-14 C34.628,-1.0658141e-14 42.598,7.969 42.598,17.798 C42.598,22.44 40.819,26.668 37.908,29.84 C34.657,33.38 29.983,35.597 24.801,35.597 C14.971,35.597 7,27.629 7,17.798 C7,12.611 9.222,7.947 12.76,4.69 C15.929,1.783 20.16,-1.0658141e-14 24.801,-1.0658141e-14 Z M32.9512,20.7893 L32.9512,24.7193 L21.8042,24.7223 L21.8042,28.5083 L15.2482,22.6203 L21.8042,16.7333 L21.8042,20.7873 L32.9512,20.7873 L32.9512,20.7893 Z M16.6514,15.3186 L16.6514,11.3866 L27.7934,11.3866 L27.7934,7.5996 L34.3474,13.4886 L27.7934,19.3756 L27.7934,15.3256 L16.6514,15.3256 L16.6514,15.3186 Z" id="path-1"></path>
+    </defs>
+    <g id="Priority-card---swa-blue,-centered-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1005.000000, -1234.000000)">
+            <g id="flying-benefits" transform="translate(2.000000, 1132.000000)">
+                <g id="icon/change" transform="translate(996.000000, 102.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use fill="#304CB2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="colors/SWA_blue" mask="url(#mask-2)" fill="#304CB2" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="50" height="50"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

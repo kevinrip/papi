@@ -1,0 +1,486 @@
+/* Nav Ad styles - START */
+#globalNavRapidRewardsPromo span .actionable--text, #globalNavRapidRewardsPromo_alt span .actionable--text{
+	color: #ffbf27;
+}
+
+
+#globalNavFlightCarHotelAd1 > .actionable--text > .link--text > span,#globalNavSpecialOffersAd1 > .actionable--text > .link--text > span,#globalNavSpecialOffersPromo > .actionable--text > .link--text > span {
+    display:block;
+  }
+  
+  #globalNavFlightCarHotelAd1:hover > .actionable--text > .link--text > span > * {
+      color: #111B40 !important;
+  }
+  
+  #globalNavFlightCarHotelAd2 {
+    float:right;
+    margin-top: 8px;
+      margin-right: -20px;
+    height:88px !important;
+  }
+  
+  #globalNavFlightCarHotelAd2 img,#globalNavFlightCarHotelAd1 img, #globalNavSpecialOffersAd1 img {
+    margin-bottom: 8px;
+  }
+  
+  #globalNavSpecialOffersPromo sup {
+    font-size: 17px;
+      font-weight: 700;
+      top: 0;
+      left: 4px;
+      vertical-align: super;
+      color: #000;
+  }
+  
+  a#globalNavSpecialOffersPromo {
+    background-image: none !important;
+}
+
+span#rr-points {
+    top: -23px;
+    position: relative;
+}
+
+span#rr-headline {
+    margin-bottom: 8px;
+}
+
+sup#rr-sup {
+    font-size: 12px !important;
+    font-weight: 700;
+    top: -22px;
+    left: 36px !important;
+    vertical-align: super;
+    color: #ffbf27 !important;
+}
+
+button.actionable.button.button_call-to-action.actionable_tertiary-light {
+    background-color: transparent;
+    border: 1px solid #fff;
+    border-radius: 2px;
+    -webkit-box-shadow: 0 1px #8F8F8F;
+    box-shadow: 0 1px #8F8F8F;
+    color: #fff;
+    display: inline-block;
+    font: bold 14px/1 Arial;
+    min-height: 32px;
+    padding: 0 20px 1px;
+}
+
+
+div#flightSpecialOffersPromo {
+	padding: 30px;
+}
+#globalNavSpecialOffersPromo .actionable_tertiary {
+	margin: 15px 0;
+}
+  
+  #globalNavSpecialOffersPromo button {
+      margin-top: -4px;
+  }
+  
+  #globalNavFlightCarHotelAd2 > .actionable--text > .link--text > span {
+    display:block;  
+  }
+  
+  #globalNavFlightCarHotelAd1:hover,#globalNavFlightCarHotelAd2:hover,#globalNavSpecialOffersAd1:hover,#globalNavSpecialOffersPromo:hover, #globalNavRapidRewardsPromo_Chase40k_191017:hover {
+    text-decoration:none; 
+  }
+  
+  #globalNavFlightCarHotelAd1:hover span,#globalNavFlightCarHotelAd2:hover span,#globalNavSpecialOffersAd1:hover span {
+    color: #4764ce;
+  }
+  
+  #globalNavFlightCarHotelAd1 {
+    margin-top: 8px;
+    float:left;
+    height:75px !important;
+  }
+  
+  .actionable {
+      border: 0;
+      color: #1a2c80;
+      cursor: pointer;
+      text-decoration: none;
+  }
+  
+  .actionable_tertiary {
+      background-color: transparent;
+      border: 1px solid #304CB2;
+      border-radius: 2px;
+      -webkit-box-shadow: 0 1px #8F8F8F;
+      box-shadow: 0 1px #8F8F8F;
+      color: #304CB2;
+      display: inline-block;
+      font: bold 14px/1 Arial;
+      min-height: 32px;
+      padding: 0 20px 1px;
+  }
+  
+span#double-rr {
+    top: -20px;
+    left: 35px;
+    position: relative;
+}
+
+span#rr-book {
+    position: relative;
+    top: -46px;
+}
+
+span#rr-when {
+    top: -44px;
+    left: 50px;
+    position: relative;
+}
+  #globalNavSpecialOffersPromo .actionable_tertiary {
+      font: bold 17px/1 Arial !important;
+      min-height: 48px;
+      padding: 6px 20px;
+  }
+  
+  .actionable_no-outline {
+      outline: none;
+  }
+  
+
+  #globalNavRapidRewardsPromo_Chase40k_191017 {
+    top:0;
+    right:0;
+    position:absolute;
+      height: 540px !important;
+    width: 278px !important;
+  }
+  
+  #globalNavRapidRewardsPromo_Chase40k_191017 img {
+    width: 234px !important;
+      height: 147px !important;
+  }
+  
+  #globalNavRapidRewardsPromo_Chase40k_191017 > .actionable--text {
+    margin-top: 45px;
+      margin-left: 25px;
+  }
+  
+  #globalNavRapidRewardsPromo_Chase40k_191017 .swa-icon_check {
+    padding-right: 10px;    
+  }
+  
+  #globalNavRapidRewardsPromo_Chase40k_191017 ul {
+    margin-top: 25px;
+    margin-left: 11px;
+    font-size:14px !important;
+    line-height:1.7em;
+    font-weight: normal !important;
+  }
+  
+  #globalNavRapidRewardsPromo_Chase40k_191017 h2 {
+    line-height:1.2em !important;
+
+  }
+  
+  #globalNavRapidRewardsPromo_Chase40k_191017 .actionable--text:last-child {
+    display:block;
+    padding: 0 !important;
+      font-size: 18px;
+      font-weight: bold;
+      color: #1A2C80;
+      margin-top: 40px;
+  }
+  
+  #globalNavRapidRewardsPromo_Chase40k_191017 > .actionable--text > .link--text > span:last-child {
+    font-weight: normal !important;
+    margin-top: 43px;
+    display:block;
+  }
+  
+  #globalNavRapidRewardsPromo_Chase40k_191017 > .actionable--text > .link--text > span > span::after{
+    content: "\E005";
+  }
+  
+  .swa-header--rapid-rewards-overlay {
+    height: 500px;
+  }
+  
+  #globalNavRapidRewardsPromo_Chase40k_191017_alt {
+    top:0;
+    right:0;
+    position:absolute;
+    margin-top: 50px;
+      margin-right: 12px;
+  }
+  
+  
+  .swa-header--rapid-rewards + .swa-overlay {
+      width: 805px !important;
+  }
+  
+  #globalNavRapidRewardsPromo, #globalNavRapidRewardsPromo_alt {
+      position: absolute;
+      display: block;
+      top: 0;
+      right: 0;
+      height: 540px !important;
+  }
+#globalNavRapidRewardsPromo span .actionable--text,
+#globalNavRapidRewardsPromo_alt span .actionable--text {
+
+	width: 150px;
+	font-weight: bold;
+	font-size: 16px;
+	position: relative;
+	display: block;
+	text-align: left;
+}
+#globalNavRapidRewardsPromo span .actionable--text::after,
+#globalNavRapidRewardsPromo_alt span .actionable--text::after {
+	content: "\E005";
+	font-family: "swa-icon";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-stroke: 0.3px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+	text-transform: none;
+	line-height: 1;
+	margin-left: 10px;
+	top: 2px;
+	position: relative;
+}
+  #globalNavRapidRewardsPromo .actionable--text .link--text > *, 
+  #globalNavRapidRewardsPromo_alt .actionable--text .link--text > * {
+      position: absolute;
+      display: block;
+	  top: 212px;
+      right:90px;
+  }
+  
+  #globalNavRapidRewardsPromo > span > span > span:nth-child(4), 
+  #globalNavRapidRewardsPromo_alt > span > span > span:nth-child(4) {
+      width: 230px;
+  }
+  
+  #globalNavRapidRewardsPromo > span > span > ul li, 
+  #globalNavRapidRewardsPromo_alt > span > span > ul li {
+      list-style: disc !important;
+      list-style-type: disc;
+      margin-left: 20px;
+  }
+  
+  #globalNavRapidRewardsPromo > span > span > span:nth-child(8), 
+  #globalNavRapidRewardsPromo_alt > span > span > span:nth-child(8) {
+      width: 200px;
+  }
+  
+  #globalNavRapidRewardsPromo > span > span > span:nth-child(6), 
+  #globalNavRapidRewardsPromo_alt > span > span > span:nth-child(6) {
+      top: 270px;
+      left: 20px;
+      font-size: 16px;
+      position: absolute;
+      text-align: left;
+      width: 200px;
+  }
+  
+  /* #globalNavRapidRewardsPromo > span > span > span:nth-child(6) span:after, 
+  #globalNavRapidRewardsPromo_alt > span > span > span:nth-child(6) span:after {
+    content: "\E005";
+    font-family: "swa-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-stroke: 0.3px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none;
+    line-height: 1;
+    margin-left: 10px;
+    top: 2px;
+    position: relative;
+  } */
+  
+  html[lang="es"] .swa-header--rapid-rewards + .swa-overlay {
+      width: 805px !important;
+      height: 564px !important;
+  }
+  
+  #globalNavRapidRewardsPromo_alt > span > span > span:nth-child(8) {
+      width: 275px;
+  }
+  
+  #globalNavRapidRewardsPromo_alt {
+      height: 564px !important;
+  }
+  
+  #text_block_g66ldt9fcph {
+     width:400px;
+  }
+  
+  button#call_to_action_r55v45hj1hs span {
+  	color: #304cb2;
+  }
+  
+  /* Nav Ad styles - END*/
+  
+  
+  
+  
+/* Footer Callout Start */
+/* Callout by ID START */
+#globalNavFooterCallout {
+    display: block;
+    padding-left: 21px;
+    padding-right: 21px;
+    height: 126px;
+    margin-top: 30px;
+    position: relative !important;
+}
+#globalNavFooterCallout * {
+    position: absolute;
+    display: block;
+    float: left;
+}
+
+/* Column 1 */
+#text_block_ms7sjhs297r {
+    top: 0 !important;
+}
+#text_block_jeikg5xw5c {
+    top: 30px !important;
+    width: 170px;
+}
+#text_block_1du2h024pyb {
+    top: 80px !important;
+    width: 110px;
+}
+#line_separator_usatwlvl6jo {
+    top: 83px !important;
+}
+#text_block_b4nm674vnyr {
+    top: 80px !important;
+}
+
+/* Column 2 */
+#text_block_hfp1i8jklxo {
+    top: 0 !important;
+}
+#text_block_o1w1gszgr5o {
+    top: 35px !important;
+}
+#text_block_kbe9s98e1jq {
+    top: 80px !important;
+    width: 220px;
+}
+#text_block_kbe9s98e1jq a, #text_block_kbe9s98e1jq span {
+    position: relative;
+    margin-right: 5px;
+}
+
+/* Column 3 */
+#text_block_n2s1p4id45 {
+    top: 0 !important;
+}
+#graphic_aboyeu8a09u {
+    right: 575px !important;
+    top: 8px !important;
+    margin: 0 !important;
+}
+/* Icons */
+#globalNavFooterCallout > a {
+    transition: all 0.3s;
+    text-decoration: none;
+    display: inline-block;
+    top: 35px !important;
+    margin-right: 360px !important;
+}
+#graphic_2pwfaweta2a, #graphic_0voulewqyyt9, #graphic_56d4nivnyee, #graphic_6e6t33yr7k, #graphic_sywr08qwmr {
+    font-size: 2.9em;
+    transition: all 0.3s;
+    text-decoration: none;
+}
+#graphic_sywr08qwmr, #graphic_cj6h1q6mbfi { 
+    top: 0 !important;
+    right: 0px !important;
+}
+#graphic_sywr08qwmr {
+    left: 5px;
+    top: 3px !important;
+}
+#graphic_2pwfaweta2a:hover { color: #21c2ff; }
+#line_separator_xcxyyyc6hd {
+    top: 15px !important;
+}
+#graphic_i0o9g3gts8d { 
+    font-size: 3.3em;
+    top: 30px !important;
+    right: 430px !important;
+}
+#text_block_owkcpg6f5fg {
+    top: 80px !important;
+    width: 80px;
+}
+#globalNavFooterCallout > a:nth-child(11):hover { color: #21c2ff !important; }
+#globalNavFooterCallout > a:nth-child(12):hover { color: #4c70ba !important; }
+#globalNavFooterCallout > a:nth-child(13):hover { color: #7098b8 !important; }
+#globalNavFooterCallout > a:nth-child(14):hover { color: #e00 !important; }
+
+#text_block_4to2zy3iyt {
+    top: 80px !important;
+    left: 595px !important;
+    width: 190px;
+}
+/* Callout by ID END */
+  
+  #globalNavFooterCallout > span.swa-icon.swa-icon_external-link-box.swa-icon_small {
+      display: block;
+      float: left;
+      font-family: swa-icon;
+      margin-top: -74px;
+      margin-left: 287px;
+      font-size: 1.2em;
+  }
+  
+  #globalNavFooterCallout > span.swa-icon.swa-icon_external-link-box.swa-icon_small > span {font-family: swa-icon;}
+  
+  #globalNavFooterCallout > span.swa-icon.swa-icon_external-link-box.swa-icon_small > span:after {
+      content: "\E017";
+  }
+
+  html[lang="es"] #globalNavFooterCallout #graphic_aboyeu8a09u {
+    right: 615px !important;
+  }
+  
+
+  /* GNAV Espanol font-size temp fix */
+  /* html[lang="es"] .header-flyout--promo-section div { font-size: 12px !important; } */
+  html[lang="es"] .header-flyout--promo-section .link--text div { font-size: 12px !important; }
+  /* html[lang="es"] .header-flyout--promo-section div:nth-of-type(2) { font-size: 22px !important; } */
+  html[lang="es"] .header-flyout--promo-section .link--text div:nth-of-type(2) { font-size: 22px !important; }
+
+  
+  @-moz-document url-prefix() {
+  }
+
+a#mobile_apps_footer_link {
+    margin-bottom: -7px;
+    margin-left: 656px;
+}
+
+#globalNavFooterCallout {
+	width: 1350px
+}
+
+.sw2 .swa-footer--separator {
+    width: 1100px 
+}
+
+/* Help Center Underneath Contact Us Fix */
+
+span#text_block_b4nm674vnyr {
+    width: 100px;
+}
+
+  /* Footer Callout End */

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="31px" viewBox="0 0 38 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/bags</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,9.55483824 C6,8.83272059 6.86947619,7.95833824 7.57609524,7.95833824 L10.237,7.95833824 L10.237,30.2491618 L7.57609524,30.2491618 C6.86947619,30.2491618 6,29.3775147 6,28.6590441 L6,9.55483824 Z M13.0616667,30.2494353 L13.0616667,7.9577 L36.8659524,7.9577 L36.8659524,30.2494353 L13.0616667,30.2494353 Z M43.9178476,9.55483824 L43.9178476,28.6590441 C43.9178476,30.20175 42.3363238,30.2491618 42.3363238,30.2491618 L39.6763238,30.2491618 L39.6763238,7.95833824 L42.3363238,7.95833824 C43.0492762,7.95833824 43.9178476,8.83272059 43.9178476,9.55483824 Z M20.2150762,3.15470588 L20.2150762,6.33858824 L16.9941238,6.33858824 L16.9941238,1.41505882 C16.9941238,0.692941176 17.688981,-2.22044605e-15 18.3974095,-2.22044605e-15 L31.4495048,-2.22044605e-15 C32.1588381,-2.22044605e-15 32.8518857,0.692941176 32.8518857,1.41505882 L32.8518857,6.33858824 L29.6879333,6.33858824 L29.6879333,3.15470588 L25.2636476,3.15470588 L20.2150762,3.15470588 Z" id="path-1"></path>
+    </defs>
+    <g id="Priority-card---swa-blue,-centered-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-701.000000, -1234.000000)">
+            <g id="flying-benefits" transform="translate(2.000000, 1132.000000)">
+                <g id="icon/bags" transform="translate(693.000000, 102.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use fill="#304CB2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="colors/SWA_blue" mask="url(#mask-2)" fill="#304CB2" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="50" height="50"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

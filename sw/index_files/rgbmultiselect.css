@@ -1,0 +1,24 @@
+.jquery_rgbmultiselect_ie6_iframe{position:absolute;display:none;top:0;left:0;width:0;height:0;z-index:99}
+.jquery_rgbmultiselect_input{color:black}
+.jquery_rgbmultiselect_input_container{display:inline-block;position:relative}
+.jquery_rgbmultiselect_input_button{display:block;position:absolute;right:3px;top:5px;height:12px;width:12px;background-color:white;background-repeat:no-repeat;background-position:top left;background-image:url(/assets/images/dropdown-window.png);cursor:pointer}
+.jquery_rgbmultiselect_blurred{color:gray!important}
+.jquery_rgbmultiselect_options_container{text-align:left;position:absolute;display:none;top:0;left:0;height:auto;border:1px solid #73b4e3;font-size:13px;line-height:15px;font-family:Helvetica,Tahoma,Arial,sans-serif;margin:0;padding:0;background-color:white;z-index:100}
+.jquery_rgbmultiselect_options_helptext{color:#666;background-color:#ececec;border:1px solid #ececec;line-height:19px;height:19px;padding-left:3px;letter-spacing:-1px}
+.jquery_rgbmultiselect_options_sticky{border-bottom:1px dotted #ddd}
+.jquery_rgbmultiselect_options_item,.jquery_rgbmultiselect_options_item SPAN{cursor:pointer}
+DIV.jquery_rgbmultiselect_options_headernocb,DIV.jquery_rgbmultiselect_options_headernocb SPAN{cursor:auto}
+.jquery_rgbmultiselect_options_item INPUT{vertical-align:middle}
+.jquery_rgbmultiselect_options_child_sticky INPUT,.jquery_rgbmultiselect_options_child_unselected INPUT,.jquery_rgbmultiselect_options_child_selected INPUT{margin-left:10px}
+.jquery_rgbmultiselect_options_item SPAN .jquery_rgbmultiselect_options_text_filtermatch{font-weight:bold}
+.jquery_rgbmultiselect_options_item{line-height:20px;height:20px;overflow:hidden}
+.jquery_rgbmultiselect_options_cleartext_selected,.jquery_rgbmultiselect_options_selected_item{background-color:#d4e2ff;color:black}
+.jquery_rgbmultiselect_options_item_arrownav_selected{box-shadow:inset 0 0 0 2px #e6e7e8;-webkit-box-shadow:inset 0 0 0 2px #e6e7e8;-moz-box-shadow:inset 0 0 0 2px #e6e7e8}
+.jquery_rgbmultiselect_options_item_hovered{background-color:#e6e7e8;color:#000}
+.jquery_rgbmultiselect_options_item_singlefiltered{color:white;background-color:#ff6d00}
+.jquery_rgbmultiselect_options_unselected{height:180px;overflow-x:hidden;overflow-y:auto}
+#vendors_rgbmultiselect_container .jquery_rgbmultiselect_options_unselected{height:180px}
+.jquery_rgbmultiselect_buttons{background-color:#edf1fc;height:30px;line-height:30px;padding:5px}
+.jquery_rgbmultiselect_buttons_clear{float:left;height:20px;line-height:20px}
+.jquery_rgbmultiselect_buttons_ok{float:right;height:20px;line-height:20px}
+.jquery_rgbmultiselect_input_button.jquery_rgbmultiselect_input_button_enter_address{left:-19px;top:-10px;display:none}
